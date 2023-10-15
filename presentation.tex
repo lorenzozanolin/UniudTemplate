@@ -1,0 +1,130 @@
+\documentclass[aspectratio=169,t,xcolor=table]{beamer}
+\usepackage[utf8]{inputenc}
+
+\usepackage{booktabs} 
+\usepackage{subcaption}
+\usepackage{epigraph}
+\usepackage[outercaption]{sidecap}    
+\usepackage{tikz}
+
+
+\usetheme{Ufg}
+
+%-------------------------------------theorems--------------
+\newtheorem{conj}{Conjetura}
+\newtheorem{defi}{Definition}
+\newtheorem{teo}{Teorema}
+\newtheorem{lema}{Lema}
+\newtheorem{prop}{Proposição}
+\newtheorem{cor}{Corolário}
+\newtheorem{ex}{Example}
+\newtheorem{exer}{Exercício}
+
+\setbeamertemplate{theorems}[numbered]
+\setbeamertemplate{caption}[numbered]
+
+%-------------------------------------------------------------%
+%----------------------- Primary Definitions -----------------%
+
+\definecolor{color1}{RGB}{0,0,90} % Color of the article title and sections
+\definecolor{color2}{RGB}{0,20,20} % Color of the boxes behind the abstract and headings
+\definecolor{keys1}{rgb}{0.0, 0.29, 0.33}
+\definecolor{keys2}{rgb}{0.25, 0.7, 0.55}
+\definecolor{keys3}{rgb}{0.1, 0.3, 0.4}
+\definecolor{keys4}{rgb}{0.21, 0.46, 0.53}
+\definecolor{strings}{rgb}{0.0, 0.47, 0.44}
+\definecolor{comments}{rgb}{0.4, 0.4, 0.5}
+\definecolor{terminaltext}{rgb}{1,1,1}
+\definecolor{terminalbackground}{rgb}{0.2,0.2,0.25}
+
+\usepackage{listings}
+
+\lstset{
+  xleftmargin=8pt,
+  xrightmargin=0pt,
+  framexleftmargin=0pt,
+  framexrightmargin=0pt,
+  basicstyle={\fontsize{8pt}{10pt}\ttfamily},
+  columns=flexible,
+  keepspaces=false,
+  showstringspaces=false,
+  commentstyle= \color{comments},
+  stringstyle= \color{strings},
+  breaklines=false,
+  postbreak=\mbox{$\hookrightarrow$\space}
+}
+
+\lstdefinelanguage{Terminal}{
+  framexleftmargin=3pt,
+  framexrightmargin=3pt,
+  framextopmargin=3pt,
+  framexbottommargin=3pt,
+  backgroundcolor=\color{terminalbackground},
+  basicstyle={\fontsize{8pt}{10pt}\ttfamily\color{terminaltext}},
+}
+
+%%% Bibliography
+\usepackage[style=numeric,backend=biber]{biblatex}
+\addbibresource{thud.bib}
+
+
+% This command set the default Color, is also possible to choose a custom color
+\setPrimaryColor{UFGBlue} 
+
+% First one is logo in title slide (we recommend use a horizontal image), and second one is the logo used in the remaining slides (we recommend use a square image)
+\setLogos{lib/logos/infw.png}{lib/logos/infw2.png} 
+
+% -------------------------------------- Title Slide Information
+\begin{document}
+\title[Inf UFG]{title}
+\subtitle{subtitle}
+
+\author{Zanolin Lorenzo\inst{1}}
+
+\institute[UFG] % (optional)
+{
+  \inst{1}%
+  DMIF\\
+  University of Udine
+}
+\date{date}
+%-----------------------The next statement creates the title page.
+\frame[noframenumbering]{\titlepage}
+
+%------------------------------------------------Slide 1
+\setLayout{vertical} % This command define the layout. 'vertical' can be replace with 'horizontal', 'blank, 'mainpoint', 'titlepage'
+
+\begin{frame}
+    \frametitle{Table of Contents}
+    \tableofcontents
+\end{frame}
+%---------------------------------------------------------
+
+\section{Introduction}
+
+\setLayout{mainpoint}
+\setBGColor{DarkPurple}
+\begin{frame}{}
+    \frametitle{Introduction}
+\end{frame}
+\setLayout{vertical}
+
+\begin{frame}[allowframebreaks]{Title}
+    %...
+\end{frame}
+
+
+
+\begin{frame}[allowframebreaks]{References}
+    \nocite{*} 
+    \printbibliography
+\end{frame}
+
+\setLayout{mainpoint}
+\setBGColor{DarkGray}
+\begin{frame}{}
+    \frametitle{Thanks for the attention}
+\end{frame}
+\setLayout{vertical}
+
+\end{document}
