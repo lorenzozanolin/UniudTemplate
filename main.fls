@@ -1483,6 +1483,11 @@ INPUT ./graphics/halfLogo.pdf
 INPUT graphics/halfLogo.pdf
 INPUT ./graphics/halfLogo.pdf
 INPUT ./graphics/halfLogo.pdf
+INPUT ./graphics/klg_pallido.pdf
+INPUT ./graphics/klg_pallido.pdf
+INPUT graphics/klg_pallido.pdf
+INPUT ./graphics/klg_pallido.pdf
+INPUT ./graphics/klg_pallido.pdf
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/adobe/palatino/pplr8t.tfm
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/vf/adobe/palatino/pplr8t.vf
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/adobe/palatino/pplr8r.tfm
