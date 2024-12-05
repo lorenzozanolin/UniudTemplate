@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex main"] 1733412702 "main.aux" "main.bbl" "main" 1733412704
+["bibtex main"] 1733412783 "main.aux" "main.bbl" "main" 1733412784
   "/usr/local/texlive/2022/texmf-dist/bibtex/bst/base/plain.bst" 1292289607 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
   "bibliography.bib" 0 -1 0 ""
-  "main.aux" 1733412703 1407 286caec959fc8ca02b92cb3dd6cc55db "pdflatex"
+  "main.aux" 1733412784 1407 286caec959fc8ca02b92cb3dd6cc55db "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
-["pdflatex"] 1733412702 "main.tex" "main.pdf" "main" 1733412704
+["pdflatex"] 1733412783 "main.tex" "main.pdf" "main" 1733412784
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/adobe/palatino/pplb8r.tfm" 1136768653 2532 9ad73cf4dd2173a847f2a5f5608e0b9a ""
@@ -233,11 +233,11 @@
   "beamer_style/beamerthemeuniud.sty" 1733324924 2862 ec93df0c0d86cff1a80934854f63871a ""
   "graphics/halfLogo.pdf" 1733396645 51188 f7c3f5fcf47be1e6c0dd95a453d873f3 ""
   "graphics/klag.png" 1733397365 20915 f4eea467f1741b327d09ca9096fd4e0f ""
-  "graphics/klg_pallido.pdf" 1733412667 305797 305f1dc34830dc76a3d31eb9db184a4b ""
+  "graphics/klg_pallido.pdf" 1733412771 305797 260181aeee623a66fd3c88973e51c9d9 ""
   "graphics/uniud.png" 1733397312 69446 4af92929473547aa606a43bd4973a86a ""
-  "main.aux" 1733412703 1407 286caec959fc8ca02b92cb3dd6cc55db "pdflatex"
+  "main.aux" 1733412784 1407 286caec959fc8ca02b92cb3dd6cc55db "pdflatex"
   "main.bbl" 0 -1 0 "bibtex main"
-  "main.nav" 1733412703 483 7aa52d7f50a5cfdf58aec710536336e1 "pdflatex"
+  "main.nav" 1733412784 483 7aa52d7f50a5cfdf58aec710536336e1 "pdflatex"
   "main.out" 0 -1 0 "pdflatex"
   "main.tex" 1733400074 3734 27392fea71bc59f2a11bc3d7d189ad6d ""
   "main.toc" 0 -1 0 "pdflatex"
