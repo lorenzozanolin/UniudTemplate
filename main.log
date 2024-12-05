@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.6.20)  4 DEC 2024 16:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.6.20)  5 DEC 2024 12:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -911,6 +911,46 @@ LaTeX Info: Redefining \GenericWarning on input line 433.
 \sl@BankOfErrors=\toks65
 LaTeX Info: Redefining \GenericError on input line 601.
 )
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 98.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\linewidth' on input line 98.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\\' on input line 98.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\\' on input line 98.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\hfill' on input line 98.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 98.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\linewidth' on input line 98.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\\' on input line 98.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\\' on input line 98.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\\' on input line 98.
+
 (/usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count361
@@ -919,24 +959,24 @@ File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
 (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 102.
+LaTeX Font Info:    ... okay on input line 102.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 102.
+LaTeX Font Info:    ... okay on input line 102.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 102.
+LaTeX Font Info:    ... okay on input line 102.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 102.
+LaTeX Font Info:    ... okay on input line 102.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 102.
+LaTeX Font Info:    ... okay on input line 102.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 102.
+LaTeX Font Info:    ... okay on input line 102.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 102.
+LaTeX Font Info:    ... okay on input line 102.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 102.
+LaTeX Font Info:    ... okay on input line 102.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 102.
+LaTeX Font Info:    ... okay on input line 102.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -994,7 +1034,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring OFF on input line 93.
+Package hyperref Info: Link coloring OFF on input line 102.
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
@@ -1008,9 +1048,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count368
 )
-LaTeX Info: Redefining \ref on input line 93.
-LaTeX Info: Redefining \pageref on input line 93.
-LaTeX Info: Redefining \nameref on input line 93.
+LaTeX Info: Redefining \ref on input line 102.
+LaTeX Info: Redefining \pageref on input line 102.
+LaTeX Info: Redefining \nameref on input line 102.
  (./main.out) (./main.out)
 \@outlinefile=\write5
 \openout5 = `main.out'.
@@ -1018,41 +1058,41 @@ LaTeX Info: Redefining \nameref on input line 93.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmr/m/n --> T1/ppl/m/n on input line 93.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 93.
+(Font)                  OT1/cmr/m/n --> T1/ppl/m/n on input line 102.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 102.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> T1/ppl/b/n on input line 93.
+(Font)                  OT1/cmr/bx/n --> T1/ppl/b/n on input line 102.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> T1/ppl/b/n on input line 93.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 93.
+(Font)                  OT1/cmr/bx/n --> T1/ppl/b/n on input line 102.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 102.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/cmss/m/n on input line 93.
+(Font)                  OT1/cmss/m/n --> T1/cmss/m/n on input line 102.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> T1/cmss/m/n on input line 93.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 93.
+(Font)                  OT1/cmss/bx/n --> T1/cmss/m/n on input line 102.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 102.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> T1/ppl/m/it on input line 93.
+(Font)                  OT1/cmr/m/it --> T1/ppl/m/it on input line 102.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> T1/ppl/m/it on input line 93.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 93.
+(Font)                  OT1/cmr/bx/it --> T1/ppl/m/it on input line 102.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 102.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> T1/lmvtt/m/n on input line 93.
+(Font)                  OT1/cmtt/m/n --> T1/lmvtt/m/n on input line 102.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> T1/lmvtt/m/n on input line 93.
+(Font)                  OT1/cmtt/m/n --> T1/lmvtt/m/n on input line 102.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  T1/ppl/m/n --> T1/ppl/b/n on input line 93.
+(Font)                  T1/ppl/m/n --> T1/ppl/b/n on input line 102.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  T1/ppl/m/it --> T1/ppl/b/it on input line 93.
+(Font)                  T1/ppl/m/it --> T1/ppl/b/it on input line 102.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmr/bx/n --> T1/ppl/b/n on input line 93.
+(Font)                  OT1/cmr/bx/n --> T1/ppl/b/n on input line 102.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  T1/ppl/b/n --> T1/ppl/b/n on input line 93.
+(Font)                  T1/ppl/b/n --> T1/ppl/b/n on input line 102.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  T1/cmss/m/n --> T1/cmss/b/n on input line 93.
+(Font)                  T1/cmss/m/n --> T1/cmss/b/n on input line 102.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  T1/ppl/m/it --> T1/ppl/b/it on input line 93.
+(Font)                  T1/ppl/m/it --> T1/ppl/b/it on input line 102.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  T1/lmvtt/m/n --> T1/lmvtt/b/n on input line 93.
+(Font)                  T1/lmvtt/m/n --> T1/lmvtt/b/n on input line 102.
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/translator/translator-basic-dicti
 onary-English.dict
@@ -1081,50 +1121,56 @@ Dictionary: translator-theorem-dictionary, Language: English
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
  (./main.nav)
-LaTeX Font Info:    Trying to load font information for T1+lmvtt on input line 
-97.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 106
+.
 
-(/usr/local/texlive/2022/texmf-dist/tex/latex/lm/t1lmvtt.fd
-File: t1lmvtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+(/usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-<graphics/uniud.png, id=13, 253.44687pt x 247.92625pt>
-File: graphics/uniud.png Graphic file (type png)
-<use graphics/uniud.png>
-Package pdftex.def Info: graphics/uniud.png  used on input line 97.
-(pdftex.def)             Requested size: 455.24408pt x 445.34006pt.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 106
+.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+<graphics/halfLogo.pdf, id=13, 245.2885pt x 406.51875pt>
+File: graphics/halfLogo.pdf Graphic file (type pdf)
+<use graphics/halfLogo.pdf>
+Package pdftex.def Info: graphics/halfLogo.pdf  used on input line 106.
+(pdftex.def)             Requested size: 170.71652pt x 282.93599pt.
  [1
 
 {/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./graph
-ics/uniud.png>]
-(./main.toc)
+ics/halfLogo.pdf>] (./main.toc)
+<graphics/uniud.png, id=28, 513.92pt x 510.90875pt>
 File: graphics/uniud.png Graphic file (type png)
 <use graphics/uniud.png>
-Package pdftex.def Info: graphics/uniud.png  used on input line 101.
-(pdftex.def)             Requested size: 24.18501pt x 23.65538pt.
-<graphics/klg.png, id=24, 314.17375pt x 318.18875pt>
-File: graphics/klg.png Graphic file (type png)
-<use graphics/klg.png>
-Package pdftex.def Info: graphics/klg.png  used on input line 101.
-(pdftex.def)             Requested size: 25.6073pt x 25.93141pt.
+Package pdftex.def Info: graphics/uniud.png  used on input line 110.
+(pdftex.def)             Requested size: 24.18501pt x 24.04233pt.
+<graphics/klag.png, id=30, 301.125pt x 300.12125pt>
+File: graphics/klag.png Graphic file (type png)
+<use graphics/klag.png>
+Package pdftex.def Info: graphics/klag.png  used on input line 110.
+(pdftex.def)             Requested size: 25.6073pt x 25.52141pt.
 
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 101--101
+Overfull \hbox (56.90549pt too wide) in paragraph at lines 110--110
 [][]  
  []
 
 [2
 
- <./graphics/klg.png>]
+ <./graphics/uniud.png> <./graphics/klag.png>]
 No file main.bbl.
 File: graphics/uniud.png Graphic file (type png)
 <use graphics/uniud.png>
-Package pdftex.def Info: graphics/uniud.png  used on input line 107.
-(pdftex.def)             Requested size: 24.18501pt x 23.65538pt.
-File: graphics/klg.png Graphic file (type png)
-<use graphics/klg.png>
-Package pdftex.def Info: graphics/klg.png  used on input line 107.
-(pdftex.def)             Requested size: 25.6073pt x 25.93141pt.
+Package pdftex.def Info: graphics/uniud.png  used on input line 116.
+(pdftex.def)             Requested size: 24.18501pt x 24.04233pt.
+File: graphics/klag.png Graphic file (type png)
+<use graphics/klag.png>
+Package pdftex.def Info: graphics/klag.png  used on input line 116.
+(pdftex.def)             Requested size: 25.6073pt x 25.52141pt.
 
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 107--107
+Overfull \hbox (56.90549pt too wide) in paragraph at lines 116--116
 [][]  
  []
 
@@ -1145,21 +1191,20 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 28059 strings out of 478268
- 554840 string characters out of 5846347
- 804662 words of memory out of 5000000
- 45710 multiletter control sequences out of 15000+600000
- 480770 words of font info for 41 fonts, out of 8000000 for 9000
+ 28094 strings out of 478268
+ 555353 string characters out of 5846347
+ 807673 words of memory out of 5000000
+ 45727 multiletter control sequences out of 15000+600000
+ 487882 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,13n,122p,435b,793s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/
-texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2022/te
-xmf-dist/fonts/type1/public/lm/lmvtt10.pfb></usr/local/texlive/2022/texmf-dist/
-fonts/type1/urw/palatino/uplr8a.pfb>
-Output written on main.pdf (3 pages, 231428 bytes).
+ 128i,13n,122p,435b,791s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
+exlive/2022/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/
+2022/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb>
+Output written on main.pdf (3 pages, 159744 bytes).
 PDF statistics:
- 54 PDF objects out of 1000 (max. 8388607)
- 34 compressed objects within 1 object stream
+ 60 PDF objects out of 1000 (max. 8388607)
+ 39 compressed objects within 1 object stream
  7 named destinations out of 1000 (max. 500000)
- 53 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 58 words of extra memory for PDF output out of 10000 (max. 10000000)
 

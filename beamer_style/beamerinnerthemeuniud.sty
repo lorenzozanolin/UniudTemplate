@@ -16,13 +16,18 @@
 
   % background logo
 %  \node[inner sep=0pt] (logo) at (3,4.75){\includegraphics[width=6cm]{Supe beamer/graphics/edited_transparent.png}};
-\node[inner sep=0pt] (logo) at (3,4.75){\includegraphics[width=16cm]{graphics/uniud.png}};
+\node[inner sep=0pt] (logo) at (3,4.75){\includegraphics[width=6cm]{graphics/halfLogo.pdf}};
 
   % line between institute and author
-  \fill[color=SupeGrayMedium] (0,7.1) rectangle(1,7.15);  
-  \fill[color=SupeGrayLight] (1,7.1) rectangle(2,7.15);  
-  \fill[color=SupeGrayLightest] (2,7.1) rectangle(\the\paperwidth,7.15);  
+  %\fill[color=SupeGrayMedium] (0,7.1) rectangle(1,7.15);  
+  %\fill[color=SupeGrayLight] (1,7.1) rectangle(2,7.15);  
+  %\fill[color=SupeGrayLightest] (2,7.1) rectangle(\the\paperwidth,7.15);  
 
+  % line between institute and author
+  \fill[color=MediumBlue] (0,7.1) rectangle(1,7.15);  
+  \fill[color=CornflowerBlue] (1,7.1) rectangle(2,7.15);  
+  \fill[color=LightSteelBlue] (2,7.1) rectangle(\the\paperwidth,7.15);  
+ 
 \fi
 % in debug mode, show the grid
 \ifdefined\DEBUG
