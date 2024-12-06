@@ -289,11 +289,40 @@
   \end{threeparttable}
 \end{frame}
 
-\begin{frame}{}
+\begin{frame}{Human Evaluation}
   
-  \only<1->{}
-
-  \uncover<2->{}
+  \vspace{10mm}
+  \centering
+  \begin{threeparttable}
+    \setlength{\extrarowheight}{2pt}
+    \begin{tabular}{|l|c|c|c|c|}
+    \hline
+    Model & Accuracy & Relevance & Coverage & Clarity  \\
+    \hline
+    \multicolumn{5}{|c|}{\textbf{Patient Summary}} \\
+    \hline
+    GPT4     & $\mathbf{\mu=3.83}$, $\mathbf{\sigma=0.62}$ & $\mu=3.72$, $\sigma=0.75$ & $\mu=3.06$, $\sigma=0.73$ & $\mu=3.83$, $\sigma=0.71$ \\
+    GPT4 32k  & $\mu=3.72$, $\sigma=0.67$ & $\mathbf{\mu=3.78}$, $\mathbf{\sigma=0.81}$ & $\mu=3.22$, $\sigma=0.94$ & $\mathbf{\mu=4.06}$, $\mathbf{\sigma=0.54}$ \\
+    GPT4 Omni & $\mu=3.83$, $\sigma=0.86$ & $\mu=3.50$, $\sigma=1.10$ & $\mu=3.33$, $\sigma=0.77$ & $\mu=3.89$, $\sigma=0.76$ \\
+    \textbf{Anthropic} & $\mu=3.83$, $\sigma=1.04$ & $\mu=3.83$, $\sigma=0.99$ & $\mathbf{\mu=3.67}$, $\mathbf{\sigma=0.59}$ & $\mu=4.17$, $\sigma=0.86$ \\
+    \hline
+    \multicolumn{5}{|c|}{\textbf{List Possible Problems}} \\
+    \hline
+    GPT4      & $\mathbf{\mu=3.95}$, $\mathbf{\sigma=0.87}$ & $\mu=4.00$, $\sigma=0.84$ & $\mu=3.61$, $\sigma=0.85$ & $\mathbf{\mu=3.94}$, $\mathbf{\sigma=0.73}$ \\
+    GPT4 32k  & $\mu=3.83$, $\sigma=0.79$ & $\mu=3.94$, $\sigma=0.73$ & $\mu=3.50$, $\sigma=0.86$ & $\mu=4.17$, $\sigma=0.79$ \\
+    \textbf{GPT4 Omni}     & $\mu=3.90$, $\sigma=1.08$ & $\mu=4.00$, $\sigma=0.97$ & $\mu=3.72$, $\sigma=1.02$ & $\mu=4.05$, $\sigma=0.80$ \\
+    Anthropic & $\mu=3.90$, $\sigma=0.90$ & $\mathbf{\mu=4.06}$, $\mathbf{\sigma=0.80}$ & $\mu=3.72$, $\sigma=1.02$ & $\mu=3.94$, $\sigma=0.94$ \\
+    \hline
+    \multicolumn{5}{|c|}{\textbf{Email Generation}} \\
+    \hline
+    GPT4      & $\mu=3.17$, $\sigma=0.98$ & $\mu=3.22$, $\sigma=0.88$ & $\mu=2.94$, $\sigma=0.99$ & $\mu=3.28$, $\sigma=0.89$ \\
+    GPT4 32k  & $\mu=3.00$, $\sigma=1.08$ & $\mu=3.56$, $\sigma=0.92$ & $\mu=3.33$, $\sigma=1.00$ & $\mu=3.44$, $\sigma=1.20$ \\
+    GPT4 Omni     & $\mu=3.78$, $\sigma=0.94$ & $\mathbf{\mu=4.06}$, $\mathbf{\sigma=0.64}$ & $\mathbf{\mu=3.72}$, $\mathbf{\sigma=0.67}$ & $\mu=3.94$, $\sigma=0.94$ \\
+    \textbf{Anthropic} & $\mu=4.06$, $\sigma=0.80$ & $\mu=4.11$, $\sigma=0.76$ & $\mu=3.90$, $\sigma=0.90$ & $\mu=4.06$, $\sigma=0.97$ \\
+    \hline
+  \end{tabular}
+\end{threeparttable}
+\end{table}
 
 \end{frame}
 
