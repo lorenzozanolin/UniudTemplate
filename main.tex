@@ -250,11 +250,42 @@
 
 \end{frame}
 
-\begin{frame}{}
+\begin{frame}{Automtic Evaluation}
   
-  \only<1->{}
+  Automatic Metrics evaluated over the outputs of the various models.
 
-  \uncover<2->{}
+  \begin{table}[b]
+    \centering
+    \setlength{\extrarowheight}{2pt}
+    \begin{tabular}{|l|c|c|c|c|c|c|c|}
+    \hline
+    Model & Rouge1 & Rouge2 & RougeL & BLEU & METEOR & Word2Vec & BERTscore \\
+    \hline
+    \multicolumn{8}{|c|}{\textbf{Patient Summary}} \\
+    \hline
+    GPT4      & 0.3966 & 0.1139 & 0.2380 & 0.1470 & 0.2198 & 0.9035 & 0.8458 \\
+    GPT4 32k  & 0.3963 & 0.1043 & 0.2439 & 0.1742 & 0.2349 & \textbf{0.9150} & 0.8428 \\
+    \textbf{GPT4 Omnni}     & \textbf{0.4286} & \textbf{0.1438} & \textbf{0.2857} & \textbf{0.2013} & \textbf{0.2692} & 0.8987 & \textbf{0.8572} \\
+    Anthropic & 0.3761 & 0.1073 & 0.2222 & 0.1054 & 0.1905 & 0.8702 & 0.8504 \\
+    \hline
+    \multicolumn{8}{|c|}{\textbf{List Possible Problems}} \\
+    \hline
+    \textbf{GPT4}      & \textbf{0.4444} & \textbf{0.1649} & \textbf{0.3838} & 0.1851 & \textbf{0.3690} & 0.8496 & \textbf{0.9007} \\
+    GPT4 32k  & 0.4228 & 0.1322 & 0.2927 & \textbf{0.2180} & 0.2726 & \textbf{0.8819} & 0.8881 \\
+    GPT4 Omni     & 0.3800 & 0.0612 & 0.2600 & 0.1366 & 0.2709 & 0.8529 & 0.8789 \\
+    Anthropic & 0.3579 & 0.0645 & 0.2526 & 0.1221 & 0.2480 & 0.8325 & 0.8810 \\
+    \hline
+    \multicolumn{8}{|c|}{\textbf{Email Generation}} \\
+    \hline
+    GPT4      & 0.3697 & 0.0845 & 0.2129 & 0.1704 & 0.2991 & 0.9164 & 0.8510 \\
+    GPT4 32k  & 0.3371 & 0.0460 & 0.1771 & 0.1153 & 0.2811 & 0.8801 & 0.8443 \\
+    \textbf{GPT4 Omni}     & \textbf{0.4536} & \textbf{0.1295} & \textbf{0.2526} & \textbf{0.2345} & \textbf{0.3605} & \textbf{0.9295} & 0.8735 \\
+    Anthropic & 0.4375 & 0.1166 & 0.2321 & 0.2037 & 0.3037 & 0.9219 & \textbf{0.8739} \\
+    \hline
+    \end{tabular}
+\end{table}
+
+
 
 \end{frame}
 
