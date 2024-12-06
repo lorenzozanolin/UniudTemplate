@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.6.20)  5 DEC 2024 16:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.6.20)  6 DEC 2024 09:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1133,20 +1133,20 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 106
 (/usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<graphics/halfLogo.pdf, id=13, 245.2885pt x 406.51875pt>
-File: graphics/halfLogo.pdf Graphic file (type pdf)
-<use graphics/halfLogo.pdf>
-Package pdftex.def Info: graphics/halfLogo.pdf  used on input line 106.
+<graphics/ud_halfLogo.pdf, id=13, 245.2885pt x 406.51875pt>
+File: graphics/ud_halfLogo.pdf Graphic file (type pdf)
+<use graphics/ud_halfLogo.pdf>
+Package pdftex.def Info: graphics/ud_halfLogo.pdf  used on input line 106.
 (pdftex.def)             Requested size: 170.71652pt x 282.93599pt.
-<graphics/klg_pallido.pdf, id=14, 638.385pt x 1160.335pt>
-File: graphics/klg_pallido.pdf Graphic file (type pdf)
-<use graphics/klg_pallido.pdf>
-Package pdftex.def Info: graphics/klg_pallido.pdf  used on input line 106.
+<graphics/klg_halfLogo.pdf, id=14, 638.385pt x 1160.335pt>
+File: graphics/klg_halfLogo.pdf Graphic file (type pdf)
+<use graphics/klg_halfLogo.pdf>
+Package pdftex.def Info: graphics/klg_halfLogo.pdf  used on input line 106.
 (pdftex.def)             Requested size: 156.49014pt x 284.43506pt.
  [1
 
 {/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./graph
-ics/halfLogo.pdf> <./graphics/klg_pallido.pdf>] (./main.toc)
+ics/ud_halfLogo.pdf> <./graphics/klg_halfLogo.pdf>] (./main.toc)
 <graphics/uniud.png, id=32, 513.92pt x 510.90875pt>
 File: graphics/uniud.png Graphic file (type png)
 <use graphics/uniud.png>
@@ -1197,8 +1197,8 @@ Package rerunfilecheck Info: File `main.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  28101 strings out of 478268
- 555567 string characters out of 5846347
- 807780 words of memory out of 5000000
+ 555595 string characters out of 5846347
+ 807784 words of memory out of 5000000
  45733 multiletter control sequences out of 15000+600000
  487882 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1206,7 +1206,7 @@ Here is how much of TeX's memory you used:
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2022/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/
 2022/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb>
-Output written on main.pdf (3 pages, 465034 bytes).
+Output written on main.pdf (3 pages, 465038 bytes).
 PDF statistics:
  64 PDF objects out of 1000 (max. 8388607)
  39 compressed objects within 1 object stream
