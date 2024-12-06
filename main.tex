@@ -25,6 +25,9 @@
 \usepackage{amsmath}
 \usepackage{caption}
 \usepackage{enumitem}
+\usepackage{multirow}
+\usepackage[flushleft]{threeparttable}
+\usepackage{tabularx, makecell, booktabs}
 \captionsetup{font=footnotesize}
 \usepackage{mathtools}
 \usepackage[numbers,sort]{natbib}
@@ -250,12 +253,10 @@
 
 \end{frame}
 
-\begin{frame}{Automtic Evaluation}
-  
-  Automatic Metrics evaluated over the outputs of the various models.
-
-  \begin{table}[b]
-    \centering
+\begin{frame}[shrink=30]{Automatic Evaluation}
+  \vspace{10mm}
+  \centering
+  \begin{threeparttable}
     \setlength{\extrarowheight}{2pt}
     \begin{tabular}{|l|c|c|c|c|c|c|c|}
     \hline
@@ -283,10 +284,7 @@
     Anthropic & 0.4375 & 0.1166 & 0.2321 & 0.2037 & 0.3037 & 0.9219 & \textbf{0.8739} \\
     \hline
     \end{tabular}
-\end{table}
-
-
-
+  \end{threeparttable}
 \end{frame}
 
 \begin{frame}{}
