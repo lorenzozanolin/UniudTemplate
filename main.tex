@@ -253,11 +253,11 @@
 
 \end{frame}
 
-\begin{frame}[shrink=30]{Automatic Evaluation}
+\begin{frame}[shrink=32]{Automatic Evaluation}
   
   \vspace{10mm}
   \centering
-  \begin{threeparttable}
+  \begin{threeparttable}[c]
     \setlength{\extrarowheight}{2pt}
     %\caption{Automatic Metrics evaluated over the outputs of the various models.}
     \begin{tabular}{|l|c|c|c|c|c|c|c|}
@@ -289,11 +289,11 @@
   \end{threeparttable}
 \end{frame}
 
-\begin{frame}{Human Evaluation}
+\begin{frame}[shrink=35]{Human Evaluation}
   
   \vspace{10mm}
   \centering
-  \begin{threeparttable}
+  \begin{threeparttable}[c]
     \setlength{\extrarowheight}{2pt}
     \begin{tabular}{|l|c|c|c|c|}
     \hline
@@ -322,15 +322,38 @@
     \hline
   \end{tabular}
 \end{threeparttable}
-\end{table}
-
 \end{frame}
 
-\begin{frame}{}
-  
-  \only<1->{}
+\begin{frame}{Human Evaluation - cont'd}
+  \textbf{Inter-rater agreement}\\
+  for all pairs of raters 
+  \[
+  P=\{\{R_i= [r_{i,1}, \ldots, r_{i,n}],R_j = [r_{j,1},\ldots,r_{j,n}]\}|R_i,R_j\in R, R_i\neq R_j\}
+  \]
+  the corresponding $\kappa_{w_{i,j}}$ values were calculated.\\
+  Subsequently, the average $\kappa_w = \frac{1}{|P|}\sum_{(i,j)\in P} \kappa_{w_{i,j}}$ was computed.
 
-  \uncover<2->{}
+  \begin{table}[b]
+    \centering
+    \setlength{\extrarowheight}{2pt}
+    \begin{tabular}{|c|c|c|c|}
+    \hline
+    GPT4 & GPT4 32K & GPT4 Omni & Anthropic\\
+    \hline
+    \multicolumn{4}{|c|}{\textbf{Patient Summary}} \\
+    \hline
+    $\kappa_w=0.25$ & $\kappa_w=0.29$ & $\kappa_w=0.37$ & $\kappa_w=0.52$ \\
+    \hline
+    \multicolumn{4}{|c|}{\textbf{List Possible Problems}} \\
+    \hline
+    $\kappa_w=0.61$ & $\kappa_w=0.63$ & $\kappa_w=0.63$ & $\kappa_w=0.57$ \\
+    \hline
+    \multicolumn{4}{|c|}{\textbf{Email Generation}} \\
+    \hline
+    $\kappa_w=0.53$ & $\kappa_w=0.61$ & $\kappa_w=0.69$ & $\kappa_w=0.72$ \\
+    \hline
+    \end{tabular}
+  \end{table}
 
 \end{frame}
 
