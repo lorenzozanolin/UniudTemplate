@@ -97,7 +97,6 @@
   }
 }
 \institute{\textcolor{SupeGrayDark}{Artificial Intelligence \& Cybersecurity}}
-%\institute{\textcolor{SupeGrayDark}{Artificial Intelligence \& Cybersecurity}}
 
 \begin{document}
 
@@ -105,8 +104,190 @@
 \titlepage
 \end{frame}
 
-\begin{frame}{Outline}
-\tableofcontents
+\begin{frame}{Background \& Motivations}
+  
+  \only<1->{\textbf{Background}\\
+  \begin{itemize}
+    \item Generative AI \textit{goal}: derive a probability distribution from data to generate new synthetic data.
+    \item \textit{Masked Multi-Head Self Attention}: captures global dependencies, process sequences in parallel and generates embeddings that improve performance on a wide range of tasks.
+  \end{itemize}}
+  \vspace{4mm}
+  \uncover<2->{\textbf{Motivations}\\
+  \begin{itemize}
+    \item Generative AI can be integrated within workflows to help clinicians.
+    \item Absence of a complete evaluation framework in the literature $\rightarrow$ new framework that combines human feedback and metric based feedback.
+  \end{itemize}}
+\end{frame}
+
+\begin{frame}{Platform \& Components}
+  
+  \only<1->{\textbf{Salesforce}\\
+  \begin{itemize}
+    \item Enables companies to manage relationships with customers, prospects and employees through customizable interaction rules.
+    \item Integrates with modules such as Health Cloud and Einstein.
+  \end{itemize}}
+  \vspace{5mm}
+  \uncover<2->{\textbf{Einstein 1}\\
+  \begin{itemize}
+    \item Enables the use of genAI models within Salesforce.
+    \item Allows for the creation of reusable prompts with database integration (RAG).
+    \item Trust Layer framework to ensure data security during information exchange with LLMs.
+  \end{itemize}}
+\end{frame}
+
+\begin{frame}{Einstein Trust Layer}
+  
+  \only<1>{
+        \begin{figure}[b]
+            \includegraphics[scale=0.20]{images/TrustLayer1.jpg}
+        \end{figure}}
+    
+    \only<2>{
+        \begin{figure}[b]
+            \includegraphics[scale=0.20]{images/TrustLayer2.jpg}
+        \end{figure}}
+  \only<3>{
+        \begin{figure}[b]
+            \includegraphics[scale=0.20]{images/TrustLayer3.jpg}
+        \end{figure}}
+    
+    \only<4>{
+        \begin{figure}[b]
+            \includegraphics[scale=0.20]{images/TrustLayer5.jpg}
+        \end{figure}}
+  \only<5>{
+        \begin{figure}[b]
+            \includegraphics[scale=0.20]{images/TrustLayer4.jpg}
+        \end{figure}}
+\end{frame}
+
+\begin{frame}{Use Case}
+  
+  \only<1->{\textbf{Health Clinic}\\
+  \begin{itemize}
+    \item Application intended for healthcare clinics that manage numerous patients and offer a wide range of services.
+    \vspace{5mm}
+    \item Tasks to be implemented with Copilot:
+  }
+  \uncover<2->{
+    \begin{itemize}
+      \item Patient Summary
+  }
+
+  \uncover<3->{
+      \item List Possible Problems
+  }
+
+  \uncover<4->{
+      \item Send Visit Details
+    \end{itemize}
+  \end{itemize}
+  }
+\end{frame}
+
+\begin{frame}{Patient Summary}
+  
+  \only<1->{Invoked by the doctor before receiving the patient: quick and detailed overview of all the patient’s conditions.}
+
+  \uncover<2->{\begin{figure}[b]
+    \includegraphics[scale=0.1]{images/SummarizePatient.jpg}
+\end{figure}}
+\end{frame}
+
+\begin{frame}{List Possible Problems}
+  
+  \only<1->{Identifies potential conditions based on the patient’s symptoms, providing a list of possible diagnoses and medications, with dosage calculations for of them.}
+
+  \uncover<2->{\begin{figure}[b]
+    \includegraphics[scale=0.1]{images/ListPossibleProblems.jpg}
+\end{figure}}
+\end{frame}
+
+\begin{frame}{Send Visit Details}
+  
+  \only<1->{Creates a draft email summarizing the patient’s latest Clinical Encounter for the doctor to review and edit.}
+
+  \uncover<2->{\begin{figure}[b]
+    \includegraphics[scale=0.22]{images/SendPatientDetails.jpg}
+\end{figure}}
+\end{frame}
+
+\begin{frame}{Evaluation Framework}
+  
+  \only<1->{For each task, the output of each model was evaluated in comparison to the clinician’s notes.\\}
+  \vspace{3mm}
+  \uncover<2->{
+    \textbf{Automatic Evaluation}: 
+    \begin{itemize}
+      \item Metrics: ROUGE, BLEU, METEOR, Word2Vec and BERTScore.
+    \end{itemize}
+  }
+  \vspace{2mm}
+  \uncover<3->{
+    \textbf{Human Evaluation}: 
+    \begin{itemize}
+      \item A sample of 20 physicians tested the system, providing feedback via a Likert scale (1-5) on four aspects: 
+      \begin{itemize}
+        \item Accuracy: alignment with clinician notes
+        \item Relevance: appropriateness to the query
+        \item Coverage: completeness of information
+        \item Clarity: syntax and overall quality
+      \end{itemize}
+    \end{itemize}
+  }
+\end{frame}
+
+\begin{frame}{Evaluation Framework - cont'd}
+  \textbf{G-Eval Evaluation}: 
+  \begin{itemize}
+    \item Framework used to evaluate model outputs, consistently using the clinician’s notes as a reference.
+    \item Compared against human evaluation.
+  \end{itemize}
+
+  \begin{figure}[b]
+    \includegraphics[scale=0.18]{images/G-Eval.jpg}
+  \end{figure}
+
+\end{frame}
+
+\begin{frame}{}
+  
+  \only<1->{}
+
+  \uncover<2->{}
+
+\end{frame}
+
+\begin{frame}{}
+  
+  \only<1->{}
+
+  \uncover<2->{}
+
+\end{frame}
+
+\begin{frame}{}
+  
+  \only<1->{}
+
+  \uncover<2->{}
+
+\end{frame}
+
+\begin{frame}{}
+  
+  \only<1->{}
+
+  \uncover<2->{}
+
+\end{frame}
+
+\begin{frame}{}
+  
+  \only<1->{}
+
+  \uncover<2->{}
+
 \end{frame}
 
 \begin{frame}[allowframebreaks, noframenumbering]{References}
