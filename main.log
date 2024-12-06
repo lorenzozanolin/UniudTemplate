@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.6.20)  6 DEC 2024 11:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.6.20)  6 DEC 2024 11:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1661,20 +1661,20 @@ Overfull \hbox (56.90549pt too wide) in paragraph at lines 254--254
 [24
 
  <./images/G-Eval.jpg>]
-Overfull \hbox (15.03487pt too wide) in paragraph at lines 288--288
+Overfull \hbox (15.03487pt too wide) in paragraph at lines 290--290
  [] 
  []
 
 File: graphics/uniud.png Graphic file (type png)
 <use graphics/uniud.png>
-Package pdftex.def Info: graphics/uniud.png  used on input line 288.
+Package pdftex.def Info: graphics/uniud.png  used on input line 290.
 (pdftex.def)             Requested size: 24.18501pt x 24.04233pt.
 File: graphics/klag.png Graphic file (type png)
 <use graphics/klag.png>
-Package pdftex.def Info: graphics/klag.png  used on input line 288.
+Package pdftex.def Info: graphics/klag.png  used on input line 290.
 (pdftex.def)             Requested size: 24.18501pt x 24.0972pt.
 
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 288--288
+Overfull \hbox (56.90549pt too wide) in paragraph at lines 290--290
 [][]  
  []
 
@@ -1700,14 +1700,14 @@ Overfull \hbox (56.90549pt too wide) in paragraph at lines 288--288
 No file main.bbl.
 File: graphics/uniud.png Graphic file (type png)
 <use graphics/uniud.png>
-Package pdftex.def Info: graphics/uniud.png  used on input line 326.
+Package pdftex.def Info: graphics/uniud.png  used on input line 328.
 (pdftex.def)             Requested size: 24.18501pt x 24.04233pt.
 File: graphics/klag.png Graphic file (type png)
 <use graphics/klag.png>
-Package pdftex.def Info: graphics/klag.png  used on input line 326.
+Package pdftex.def Info: graphics/klag.png  used on input line 328.
 (pdftex.def)             Requested size: 24.18501pt x 24.0972pt.
 
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 326--326
+Overfull \hbox (56.90549pt too wide) in paragraph at lines 328--328
 [][]  
  []
 
@@ -1740,7 +1740,7 @@ exlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/te
 xlive/2022/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2
 022/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2022/tex
 mf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on main.pdf (34 pages, 2943142 bytes).
+Output written on main.pdf (34 pages, 2943130 bytes).
 PDF statistics:
  289 PDF objects out of 1000 (max. 8388607)
  218 compressed objects within 3 object streams
