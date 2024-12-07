@@ -289,11 +289,12 @@
   \end{threeparttable}
 \end{frame}
 
-\begin{frame}[shrink=35]{Human Evaluation}
-  
-  \vspace{10mm}
+\begin{frame}{Human Evaluation}
+  Mean and standard deviation of Human Evaluation scores.\\
+  %\vspace{10mm}
+  {\tiny
   \centering
-  \begin{threeparttable}[c]
+  \begin{table}[]
     \setlength{\extrarowheight}{2pt}
     \begin{tabular}{|l|c|c|c|c|}
     \hline
@@ -321,7 +322,8 @@
     \textbf{Anthropic} & $\mu=4.06$, $\sigma=0.80$ & $\mu=4.11$, $\sigma=0.76$ & $\mu=3.90$, $\sigma=0.90$ & $\mu=4.06$, $\sigma=0.97$ \\
     \hline
   \end{tabular}
-\end{threeparttable}
+\end{table}
+}
 \end{frame}
 
 \begin{frame}{Human Evaluation - cont'd}
@@ -332,7 +334,8 @@
   \]
   the corresponding $\kappa_{w_{i,j}}$ values were calculated.\\
   Subsequently, the average $\kappa_w = \frac{1}{|P|}\sum_{(i,j)\in P} \kappa_{w_{i,j}}$ was computed.
-
+  \vspace{5mm}
+  {\tiny
   \begin{table}[b]
     \centering
     \setlength{\extrarowheight}{2pt}
@@ -354,7 +357,7 @@
     \hline
     \end{tabular}
   \end{table}
-
+  }
 \end{frame}
 
 \begin{frame}{}
