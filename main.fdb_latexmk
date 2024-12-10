@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1733569860 "main.tex" "main.pdf" "main" 1733569863
+["pdflatex"] 1733847856 "main.tex" "main.pdf" "main" 1733847859
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/adobe/palatino/pplb8r.tfm" 1136768653 2532 9ad73cf4dd2173a847f2a5f5608e0b9a ""
@@ -249,19 +249,21 @@
   "graphics/ud_halfLogo.pdf" 1733396645 51188 f7c3f5fcf47be1e6c0dd95a453d873f3 ""
   "graphics/uniud.png" 1733473775 69446 4af92929473547aa606a43bd4973a86a ""
   "images/G-Eval.jpg" 1733479101 228041 797947f5e8f5b08984827b84ca010a43 ""
-  "images/ListPossibleProblems.jpg" 1733477281 520179 5da16112bcf95b03538a58e5fb85488d ""
+  "images/ListPossibleProblems.png" 1733845339 206227 84061dfe7cd15858dcb7056074301bd5 ""
+  "images/ProblemsDetail.png" 1733845259 40235 74990d5b7975aa4252d7c30cf25048ab ""
   "images/SendPatientDetails.jpg" 1733476766 105952 c1dd7359ca7d05b2032e051a46362d92 ""
   "images/SummarizePatient.jpg" 1733477228 758686 c472c45583370564e6ef1cdbed151e7d ""
+  "images/SummaryDetail.png" 1733844555 73794 e6f3e038beff352d1f9cd2e538e4b66a ""
   "images/TrustLayer1.jpg" 1733476077 60819 c7005617cd63f46f8f361b20ca2bdf98 ""
   "images/TrustLayer2.jpg" 1733476178 109303 3895f86f52b05a16a49c2ae452f6792f ""
   "images/TrustLayer3.jpg" 1733476197 109049 67eb0da4c31fa74c267e8db76bdf7818 ""
   "images/TrustLayer4.jpg" 1733476211 108059 83746f11393be94992529f896cd24623 ""
   "images/TrustLayer5.jpg" 1733476221 108016 e445bd0c980d4b80593b110258c59889 ""
   "images/comparison.png" 1733569256 43129 ce00a1c9f40cec499e1d1612a643b84f ""
-  "main.aux" 1733569863 2913 b1fcfaeb2a166c5804d204b29c9c174e "pdflatex"
-  "main.nav" 1733569863 1596 727fdca208ee12473652e1e68ecd3fe8 "pdflatex"
+  "main.aux" 1733847859 2913 109f30cb063d736b1bc9b6f8c4869af8 "pdflatex"
+  "main.nav" 1733847859 1596 dbff3b6a3e5ebd08fffb44c6b6120c2c "pdflatex"
   "main.out" 0 -1 0 "pdflatex"
-  "main.tex" 1733569856 14555 dbed0c6574fb2cac12e75c2c2358b8b5 ""
+  "main.tex" 1733847854 15083 1e078ebc1cb8d6a19e09659449cfcd3f ""
   (generated)
   "main.aux"
   "main.log"

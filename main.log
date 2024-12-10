@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.6.20)  7 DEC 2024 12:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.6.20)  10 DEC 2024 17:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1468,124 +1468,120 @@ Overfull \hbox (56.90549pt too wide) in paragraph at lines 190--190
 <images/SummarizePatient.jpg, id=124, 2924.9275pt x 1632.0975pt>
 File: images/SummarizePatient.jpg Graphic file (type jpg)
 <use images/SummarizePatient.jpg>
-Package pdftex.def Info: images/SummarizePatient.jpg  used on input line 199.
+Package pdftex.def Info: images/SummarizePatient.jpg  used on input line 211.
 (pdftex.def)             Requested size: 292.50989pt x 163.21931pt.
 File: graphics/uniud.png Graphic file (type png)
 <use graphics/uniud.png>
-Package pdftex.def Info: graphics/uniud.png  used on input line 199.
+Package pdftex.def Info: graphics/uniud.png  used on input line 211.
 (pdftex.def)             Requested size: 24.18501pt x 24.04233pt.
 File: graphics/klag.png Graphic file (type png)
 <use graphics/klag.png>
-Package pdftex.def Info: graphics/klag.png  used on input line 199.
+Package pdftex.def Info: graphics/klag.png  used on input line 211.
 (pdftex.def)             Requested size: 24.18501pt x 24.0972pt.
 
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 199--199
+Overfull \hbox (56.90549pt too wide) in paragraph at lines 211--211
 [][]  
  []
 
 [15
 
  <./images/SummarizePatient.jpg>]
-File: images/SummarizePatient.jpg Graphic file (type jpg)
-<use images/SummarizePatient.jpg>
-Package pdftex.def Info: images/SummarizePatient.jpg  used on input line 199.
-(pdftex.def)             Requested size: 292.50989pt x 163.21931pt.
+<images/SummaryDetail.png, id=131, 657.45625pt x 483.8075pt>
+File: images/SummaryDetail.png Graphic file (type png)
+<use images/SummaryDetail.png>
+Package pdftex.def Info: images/SummaryDetail.png  used on input line 211.
+(pdftex.def)             Requested size: 230.11313pt x 169.33516pt.
 File: graphics/uniud.png Graphic file (type png)
 <use graphics/uniud.png>
-Package pdftex.def Info: graphics/uniud.png  used on input line 199.
+Package pdftex.def Info: graphics/uniud.png  used on input line 211.
 (pdftex.def)             Requested size: 24.18501pt x 24.04233pt.
 File: graphics/klag.png Graphic file (type png)
 <use graphics/klag.png>
-Package pdftex.def Info: graphics/klag.png  used on input line 199.
+Package pdftex.def Info: graphics/klag.png  used on input line 211.
 (pdftex.def)             Requested size: 24.18501pt x 24.0972pt.
 
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 199--199
+Overfull \hbox (56.90549pt too wide) in paragraph at lines 211--211
 [][]  
  []
 
 [16
 
-]
-<images/ListPossibleProblems.jpg, id=137, 2922.92pt x 1640.1275pt>
-File: images/ListPossibleProblems.jpg Graphic file (type jpg)
-<use images/ListPossibleProblems.jpg>
-Package pdftex.def Info: images/ListPossibleProblems.jpg  used on input line 20
-8.
-(pdftex.def)             Requested size: 292.30913pt x 164.02235pt.
+ <./images/SummaryDetail.png>]
+<images/ListPossibleProblems.png, id=139, 1660.2025pt x 737.75626pt>
+File: images/ListPossibleProblems.png Graphic file (type png)
+<use images/ListPossibleProblems.png>
+Package pdftex.def Info: images/ListPossibleProblems.png  used on input line 23
+6.
+(pdftex.def)             Requested size: 307.28987pt x 136.55031pt.
 File: graphics/uniud.png Graphic file (type png)
 <use graphics/uniud.png>
-Package pdftex.def Info: graphics/uniud.png  used on input line 208.
+Package pdftex.def Info: graphics/uniud.png  used on input line 236.
 (pdftex.def)             Requested size: 24.18501pt x 24.04233pt.
 File: graphics/klag.png Graphic file (type png)
 <use graphics/klag.png>
-Package pdftex.def Info: graphics/klag.png  used on input line 208.
+Package pdftex.def Info: graphics/klag.png  used on input line 236.
 (pdftex.def)             Requested size: 24.18501pt x 24.0972pt.
 
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 208--208
+Overfull \hbox (56.90549pt too wide) in paragraph at lines 236--236
 [][]  
  []
 
 [17
 
- <./images/ListPossibleProblems.jpg>]
-File: images/ListPossibleProblems.jpg Graphic file (type jpg)
-<use images/ListPossibleProblems.jpg>
-Package pdftex.def Info: images/ListPossibleProblems.jpg  used on input line 20
-8.
-(pdftex.def)             Requested size: 292.30913pt x 164.02235pt.
+ <./images/ListPossibleProblems.png>]
+<images/ProblemsDetail.png, id=147, 654.445pt x 266.9975pt>
+File: images/ProblemsDetail.png Graphic file (type png)
+<use images/ProblemsDetail.png>
+Package pdftex.def Info: images/ProblemsDetail.png  used on input line 236.
+(pdftex.def)             Requested size: 245.83282pt x 100.29083pt.
 File: graphics/uniud.png Graphic file (type png)
 <use graphics/uniud.png>
-Package pdftex.def Info: graphics/uniud.png  used on input line 208.
+Package pdftex.def Info: graphics/uniud.png  used on input line 236.
 (pdftex.def)             Requested size: 24.18501pt x 24.04233pt.
 File: graphics/klag.png Graphic file (type png)
 <use graphics/klag.png>
-Package pdftex.def Info: graphics/klag.png  used on input line 208.
+Package pdftex.def Info: graphics/klag.png  used on input line 236.
 (pdftex.def)             Requested size: 24.18501pt x 24.0972pt.
 
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 208--208
+Overfull \hbox (56.90549pt too wide) in paragraph at lines 236--236
 [][]  
  []
 
 [18
 
-]
-<images/SendPatientDetails.jpg, id=150, 1259.70625pt x 740.7675pt>
+ <./images/ProblemsDetail.png>]
+<images/SendPatientDetails.jpg, id=155, 1259.70625pt x 740.7675pt>
 File: images/SendPatientDetails.jpg Graphic file (type jpg)
 <use images/SendPatientDetails.jpg>
-Package pdftex.def Info: images/SendPatientDetails.jpg  used on input line 217.
+Package pdftex.def Info: images/SendPatientDetails.jpg  used on input line 245.
 
 (pdftex.def)             Requested size: 277.13623pt x 162.96935pt.
 File: graphics/uniud.png Graphic file (type png)
 <use graphics/uniud.png>
-Package pdftex.def Info: graphics/uniud.png  used on input line 217.
+Package pdftex.def Info: graphics/uniud.png  used on input line 245.
 (pdftex.def)             Requested size: 24.18501pt x 24.04233pt.
 File: graphics/klag.png Graphic file (type png)
 <use graphics/klag.png>
-Package pdftex.def Info: graphics/klag.png  used on input line 217.
+Package pdftex.def Info: graphics/klag.png  used on input line 245.
 (pdftex.def)             Requested size: 24.18501pt x 24.0972pt.
 
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 217--217
+Overfull \hbox (56.90549pt too wide) in paragraph at lines 245--245
 [][]  
  []
 
 [19
 
  <./images/SendPatientDetails.jpg>]
-File: images/SendPatientDetails.jpg Graphic file (type jpg)
-<use images/SendPatientDetails.jpg>
-Package pdftex.def Info: images/SendPatientDetails.jpg  used on input line 217.
-
-(pdftex.def)             Requested size: 277.13623pt x 162.96935pt.
 File: graphics/uniud.png Graphic file (type png)
 <use graphics/uniud.png>
-Package pdftex.def Info: graphics/uniud.png  used on input line 217.
+Package pdftex.def Info: graphics/uniud.png  used on input line 270.
 (pdftex.def)             Requested size: 24.18501pt x 24.04233pt.
 File: graphics/klag.png Graphic file (type png)
 <use graphics/klag.png>
-Package pdftex.def Info: graphics/klag.png  used on input line 217.
+Package pdftex.def Info: graphics/klag.png  used on input line 270.
 (pdftex.def)             Requested size: 24.18501pt x 24.0972pt.
 
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 217--217
+Overfull \hbox (56.90549pt too wide) in paragraph at lines 270--270
 [][]  
  []
 
@@ -1594,14 +1590,14 @@ Overfull \hbox (56.90549pt too wide) in paragraph at lines 217--217
 ]
 File: graphics/uniud.png Graphic file (type png)
 <use graphics/uniud.png>
-Package pdftex.def Info: graphics/uniud.png  used on input line 242.
+Package pdftex.def Info: graphics/uniud.png  used on input line 270.
 (pdftex.def)             Requested size: 24.18501pt x 24.04233pt.
 File: graphics/klag.png Graphic file (type png)
 <use graphics/klag.png>
-Package pdftex.def Info: graphics/klag.png  used on input line 242.
+Package pdftex.def Info: graphics/klag.png  used on input line 270.
 (pdftex.def)             Requested size: 24.18501pt x 24.0972pt.
 
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 242--242
+Overfull \hbox (56.90549pt too wide) in paragraph at lines 270--270
 [][]  
  []
 
@@ -1610,164 +1606,148 @@ Overfull \hbox (56.90549pt too wide) in paragraph at lines 242--242
 ]
 File: graphics/uniud.png Graphic file (type png)
 <use graphics/uniud.png>
-Package pdftex.def Info: graphics/uniud.png  used on input line 242.
+Package pdftex.def Info: graphics/uniud.png  used on input line 270.
 (pdftex.def)             Requested size: 24.18501pt x 24.04233pt.
 File: graphics/klag.png Graphic file (type png)
 <use graphics/klag.png>
-Package pdftex.def Info: graphics/klag.png  used on input line 242.
+Package pdftex.def Info: graphics/klag.png  used on input line 270.
 (pdftex.def)             Requested size: 24.18501pt x 24.0972pt.
 
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 242--242
+Overfull \hbox (56.90549pt too wide) in paragraph at lines 270--270
 [][]  
  []
 
 [22
 
 ]
+<images/G-Eval.jpg, id=182, 1217.54875pt x 736.7525pt>
+File: images/G-Eval.jpg Graphic file (type jpg)
+<use images/G-Eval.jpg>
+Package pdftex.def Info: images/G-Eval.jpg  used on input line 283.
+(pdftex.def)             Requested size: 219.14932pt x 132.60973pt.
 File: graphics/uniud.png Graphic file (type png)
 <use graphics/uniud.png>
-Package pdftex.def Info: graphics/uniud.png  used on input line 242.
+Package pdftex.def Info: graphics/uniud.png  used on input line 283.
 (pdftex.def)             Requested size: 24.18501pt x 24.04233pt.
 File: graphics/klag.png Graphic file (type png)
 <use graphics/klag.png>
-Package pdftex.def Info: graphics/klag.png  used on input line 242.
+Package pdftex.def Info: graphics/klag.png  used on input line 283.
 (pdftex.def)             Requested size: 24.18501pt x 24.0972pt.
 
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 242--242
+Overfull \hbox (56.90549pt too wide) in paragraph at lines 283--283
 [][]  
  []
 
 [23
 
-]
-<images/G-Eval.jpg, id=183, 1217.54875pt x 736.7525pt>
-File: images/G-Eval.jpg Graphic file (type jpg)
-<use images/G-Eval.jpg>
-Package pdftex.def Info: images/G-Eval.jpg  used on input line 255.
-(pdftex.def)             Requested size: 219.14932pt x 132.60973pt.
-File: graphics/uniud.png Graphic file (type png)
-<use graphics/uniud.png>
-Package pdftex.def Info: graphics/uniud.png  used on input line 255.
-(pdftex.def)             Requested size: 24.18501pt x 24.04233pt.
-File: graphics/klag.png Graphic file (type png)
-<use graphics/klag.png>
-Package pdftex.def Info: graphics/klag.png  used on input line 255.
-(pdftex.def)             Requested size: 24.18501pt x 24.0972pt.
-
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 255--255
-[][]  
- []
-
-[24
-
  <./images/G-Eval.jpg>]
-Overfull \hbox (2.40773pt too wide) in paragraph at lines 291--291
+Overfull \hbox (2.40773pt too wide) in paragraph at lines 319--319
  $[]$ 
  []
 
 File: graphics/uniud.png Graphic file (type png)
 <use graphics/uniud.png>
-Package pdftex.def Info: graphics/uniud.png  used on input line 291.
+Package pdftex.def Info: graphics/uniud.png  used on input line 319.
 (pdftex.def)             Requested size: 24.18501pt x 24.04233pt.
 File: graphics/klag.png Graphic file (type png)
 <use graphics/klag.png>
-Package pdftex.def Info: graphics/klag.png  used on input line 291.
+Package pdftex.def Info: graphics/klag.png  used on input line 319.
 (pdftex.def)             Requested size: 24.18501pt x 24.0972pt.
 
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 291--291
+Overfull \hbox (56.90549pt too wide) in paragraph at lines 319--319
+[][]  
+ []
+
+[24
+
+]
+Overfull \hbox (5.51419pt too wide) in paragraph at lines 356--356
+ [] 
+ []
+
+File: graphics/uniud.png Graphic file (type png)
+<use graphics/uniud.png>
+Package pdftex.def Info: graphics/uniud.png  used on input line 356.
+(pdftex.def)             Requested size: 24.18501pt x 24.04233pt.
+File: graphics/klag.png Graphic file (type png)
+<use graphics/klag.png>
+Package pdftex.def Info: graphics/klag.png  used on input line 356.
+(pdftex.def)             Requested size: 24.18501pt x 24.0972pt.
+
+Overfull \hbox (56.90549pt too wide) in paragraph at lines 356--356
 [][]  
  []
 
 [25
 
 ]
-Overfull \hbox (5.51419pt too wide) in paragraph at lines 328--328
- [] 
- []
-
 File: graphics/uniud.png Graphic file (type png)
 <use graphics/uniud.png>
-Package pdftex.def Info: graphics/uniud.png  used on input line 328.
+Package pdftex.def Info: graphics/uniud.png  used on input line 390.
 (pdftex.def)             Requested size: 24.18501pt x 24.04233pt.
 File: graphics/klag.png Graphic file (type png)
 <use graphics/klag.png>
-Package pdftex.def Info: graphics/klag.png  used on input line 328.
+Package pdftex.def Info: graphics/klag.png  used on input line 390.
 (pdftex.def)             Requested size: 24.18501pt x 24.0972pt.
 
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 328--328
+Overfull \hbox (56.90549pt too wide) in paragraph at lines 390--390
 [][]  
  []
 
 [26
 
 ]
+<images/comparison.png, id=216, 1435.2822pt x 498.663pt>
+File: images/comparison.png Graphic file (type png)
+<use images/comparison.png>
+Package pdftex.def Info: images/comparison.png  used on input line 399.
+(pdftex.def)             Requested size: 307.28987pt x 106.76152pt.
 File: graphics/uniud.png Graphic file (type png)
 <use graphics/uniud.png>
-Package pdftex.def Info: graphics/uniud.png  used on input line 362.
+Package pdftex.def Info: graphics/uniud.png  used on input line 399.
 (pdftex.def)             Requested size: 24.18501pt x 24.04233pt.
 File: graphics/klag.png Graphic file (type png)
 <use graphics/klag.png>
-Package pdftex.def Info: graphics/klag.png  used on input line 362.
+Package pdftex.def Info: graphics/klag.png  used on input line 399.
 (pdftex.def)             Requested size: 24.18501pt x 24.0972pt.
 
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 362--362
+Overfull \hbox (56.90549pt too wide) in paragraph at lines 399--399
 [][]  
  []
 
 [27
 
-]
-<images/comparison.png, id=217, 1435.2822pt x 498.663pt>
-File: images/comparison.png Graphic file (type png)
-<use images/comparison.png>
-Package pdftex.def Info: images/comparison.png  used on input line 371.
-(pdftex.def)             Requested size: 307.28987pt x 106.76152pt.
+ <./images/comparison.png>]
 File: graphics/uniud.png Graphic file (type png)
 <use graphics/uniud.png>
-Package pdftex.def Info: graphics/uniud.png  used on input line 371.
+Package pdftex.def Info: graphics/uniud.png  used on input line 422.
 (pdftex.def)             Requested size: 24.18501pt x 24.04233pt.
 File: graphics/klag.png Graphic file (type png)
 <use graphics/klag.png>
-Package pdftex.def Info: graphics/klag.png  used on input line 371.
+Package pdftex.def Info: graphics/klag.png  used on input line 422.
 (pdftex.def)             Requested size: 24.18501pt x 24.0972pt.
 
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 371--371
+Overfull \hbox (56.90549pt too wide) in paragraph at lines 422--422
 [][]  
  []
 
 [28
 
- <./images/comparison.png>]
+]
 File: graphics/uniud.png Graphic file (type png)
 <use graphics/uniud.png>
-Package pdftex.def Info: graphics/uniud.png  used on input line 394.
+Package pdftex.def Info: graphics/uniud.png  used on input line 422.
 (pdftex.def)             Requested size: 24.18501pt x 24.04233pt.
 File: graphics/klag.png Graphic file (type png)
 <use graphics/klag.png>
-Package pdftex.def Info: graphics/klag.png  used on input line 394.
+Package pdftex.def Info: graphics/klag.png  used on input line 422.
 (pdftex.def)             Requested size: 24.18501pt x 24.0972pt.
 
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 394--394
+Overfull \hbox (56.90549pt too wide) in paragraph at lines 422--422
 [][]  
  []
 
 [29
-
-]
-File: graphics/uniud.png Graphic file (type png)
-<use graphics/uniud.png>
-Package pdftex.def Info: graphics/uniud.png  used on input line 394.
-(pdftex.def)             Requested size: 24.18501pt x 24.04233pt.
-File: graphics/klag.png Graphic file (type png)
-<use graphics/klag.png>
-Package pdftex.def Info: graphics/klag.png  used on input line 394.
-(pdftex.def)             Requested size: 24.18501pt x 24.0972pt.
-
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 394--394
-[][]  
- []
-
-[30
 
 ]
 \tf@nav=\write6
@@ -1784,10 +1764,10 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 28777 strings out of 478268
- 566754 string characters out of 5846347
+ 28789 strings out of 478268
+ 567126 string characters out of 5846347
  835113 words of memory out of 5000000
- 46317 multiletter control sequences out of 15000+600000
+ 46329 multiletter control sequences out of 15000+600000
  497458 words of font info for 79 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,13n,122p,435b,791s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1804,10 +1784,10 @@ mf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2022/texmf
 -dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2022/texmf-dist/f
 onts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/ty
 pe1/urw/palatino/uplri8a.pfb>
-Output written on main.pdf (30 pages, 3060745 bytes).
+Output written on main.pdf (29 pages, 2761786 bytes).
 PDF statistics:
- 305 PDF objects out of 1000 (max. 8388607)
- 220 compressed objects within 3 object streams
- 61 named destinations out of 1000 (max. 500000)
- 113 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 303 PDF objects out of 1000 (max. 8388607)
+ 214 compressed objects within 3 object streams
+ 59 named destinations out of 1000 (max. 500000)
+ 123 words of extra memory for PDF output out of 10000 (max. 10000000)
 

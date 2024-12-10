@@ -191,27 +191,55 @@
 
 \begin{frame}{Patient Summary}
   
-  \only<1->{Invoked by the doctor before receiving the patient: quick and detailed overview of all the patient’s conditions.}
-
-  \uncover<2->{\begin{figure}[b]
+  \uncover<1->{
+    Invoked by the doctor before receiving the patient: quick and detailed overview of all the patient’s conditions.
+    \vfill
+  }
+  
+  \only<1>{
+  \begin{figure}[b]
     \includegraphics[scale=0.1]{images/SummarizePatient.jpg}
-\end{figure}}
+  \end{figure}
+  }
+
+  \only<2>{
+  \begin{figure}[]
+    \includegraphics[scale=0.35]{images/SummaryDetail.png}
+  \end{figure}
+  \vfill
+  }
 \end{frame}
 
 \begin{frame}{List Possible Problems}
   
-  \only<1->{Identifies potential conditions based on the patient’s symptoms, providing a list of possible diagnoses and medications, with dosage calculations for of them.}
+  % Testo statico in alto
+  \uncover<1->{
+    \vspace{-0.5cm} % Spostamento verso l'alto per il posizionamento preciso
+    Identifies potential conditions based on the patient’s symptoms, providing a list of possible diagnoses and medications, with dosage calculations for all of them.
+  }
+  
+  % Spazio verticale tra testo e immagini
+  \vspace{0.5cm}
+  
+  % Immagini con transizione
+  \only<1>{
+    \begin{center}
+      \includegraphics[width=\textwidth,keepaspectratio]{images/ListPossibleProblems.png}
+    \end{center}
+  }
+  \only<2>{
+    \begin{center}
+      \includegraphics[width=0.8\textwidth,keepaspectratio]{images/ProblemsDetail.png}
+    \end{center}
+  }
 
-  \uncover<2->{\begin{figure}[b]
-    \includegraphics[scale=0.1]{images/ListPossibleProblems.jpg}
-\end{figure}}
 \end{frame}
 
 \begin{frame}{Send Visit Details}
   
   \only<1->{Creates a draft email summarizing the patient’s latest Clinical Encounter for the doctor to review and edit.}
 
-  \uncover<2->{\begin{figure}[b]
+  \uncover<1->{\begin{figure}[b]
     \includegraphics[scale=0.22]{images/SendPatientDetails.jpg}
 \end{figure}}
 \end{frame}
