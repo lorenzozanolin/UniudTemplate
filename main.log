@@ -1,6 +1,6 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.6.20)  10 DEC 2024 17:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.6.20)  11 DEC 2024 11:25
 entering extended mode
- restricted \write18 enabled.
+ \write18 enabled.
  %&-line parsing enabled.
 **main.tex
 (./main.tex
@@ -733,110 +733,144 @@ Package: enumitem 2019/06/20 v3.9 Customized lists
 \enit@count@id=\count335
 \enitdp@description=\count336
 )
-(/usr/local/texlive/2022/texmf-dist/tex/latex/multirow/multirow.sty
-Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
-\multirow@colwidth=\skip65
-\multirow@cntb=\count337
-\multirow@dima=\skip66
-\bigstrutjot=\dimen301
-)
-(/usr/local/texlive/2022/texmf-dist/tex/latex/threeparttable/threeparttable.sty
-Package: threeparttable 2003/06/13  v 3.0
-\@tempboxb=\box76
-) (/usr/local/texlive/2022/texmf-dist/tex/latex/tools/tabularx.sty
-Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/minted/minted.sty
+Package: minted 2021/12/24 v2.6 Yet another Pygments shim for LaTeX
 
-(/usr/local/texlive/2022/texmf-dist/tex/latex/tools/array.sty
-Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
-\col@sep=\dimen302
-\ar@mcellbox=\box77
-\extrarowheight=\dimen303
-\NC@list=\toks50
-\extratabsurround=\skip67
-\backup@length=\skip68
-\ar@cellbox=\box78
-)
-\TX@col@width=\dimen304
-\TX@old@table=\dimen305
-\TX@old@col=\dimen306
-\TX@target=\dimen307
-\TX@delta=\dimen308
-\TX@cols=\count338
-\TX@ftn=\toks51
-)
-(/usr/local/texlive/2022/texmf-dist/tex/latex/makecell/makecell.sty
-Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
-\rotheadsize=\dimen309
-\c@nlinenum=\count339
-\TeXr@lab=\toks52
-)
-(/usr/local/texlive/2022/texmf-dist/tex/latex/booktabs/booktabs.sty
-Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
-\heavyrulewidth=\dimen310
-\lightrulewidth=\dimen311
-\cmidrulewidth=\dimen312
-\belowrulesep=\dimen313
-\belowbottomsep=\dimen314
-\aboverulesep=\dimen315
-\abovetopsep=\dimen316
-\cmidrulesep=\dimen317
-\cmidrulekern=\dimen318
-\defaultaddspace=\dimen319
-\@cmidla=\count340
-\@cmidlb=\count341
-\@aboverulesep=\dimen320
-\@belowrulesep=\dimen321
-\@thisruleclass=\count342
-\@lastruleclass=\count343
-\@thisrulewidth=\dimen322
-)
-(/usr/local/texlive/2022/texmf-dist/tex/latex/mathtools/mathtools.sty
-Package: mathtools 2022/02/07 v1.28a mathematical typesetting tools
+(/usr/local/texlive/2022/texmf-dist/tex/latex/fvextra/fvextra.sty
+Package: fvextra 2019/02/04 v1.4 fvextra - extensions and patches for fancyvrb
 
+(/usr/local/texlive/2022/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
+Package: fancyvrb 2021/12/21 4.1b verbatim text (tvz,hv)
+\FV@CodeLineNo=\count337
+\FV@InFile=\read4
+\FV@TabBox=\box76
+\c@FancyVerbLine=\count338
+\FV@StepNumber=\count339
+\FV@OutFile=\write5
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/upquote/upquote.sty
+Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
+tim
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/lineno/lineno.sty
+Package: lineno 2005/11/02 line numbers on paragraphs v4.41
+\linenopenalty=\count340
+\output=\toks50
+\linenoprevgraf=\count341
+\linenumbersep=\dimen301
+\linenumberwidth=\dimen302
+\c@linenumber=\count342
+\c@pagewiselinenumber=\count343
+\c@LN@truepage=\count344
+\c@internallinenumber=\count345
+\c@internallinenumbers=\count346
+\quotelinenumbersep=\dimen303
+\bframerule=\dimen304
+\bframesep=\dimen305
+\bframebox=\box77
+LaTeX Info: Redefining \\ on input line 3056.
+)
+\c@FV@TrueTabGroupLevel=\count347
+\c@FV@TrueTabCounter=\count348
+\FV@TabBox@Group=\box78
+\FV@TmpLength=\skip65
+\c@FV@HighlightLinesStart=\count349
+\c@FV@HighlightLinesStop=\count350
+\FV@LoopCount=\count351
+\FV@NCharsBox=\box79
+\FV@BreakIndent=\dimen306
+\FV@BreakIndentNChars=\count352
+\FV@BreakSymbolSepLeft=\dimen307
+\FV@BreakSymbolSepLeftNChars=\count353
+\FV@BreakSymbolSepRight=\dimen308
+\FV@BreakSymbolSepRightNChars=\count354
+\FV@BreakSymbolIndentLeft=\dimen309
+\FV@BreakSymbolIndentLeftNChars=\count355
+\FV@BreakSymbolIndentRight=\dimen310
+\FV@BreakSymbolIndentRightNChars=\count356
+\c@FancyVerbLineBreakLast=\count357
+\FV@LineBox=\box80
+\FV@LineIndentBox=\box81
+\FV@LineWidth=\dimen311
+)
 (/usr/local/texlive/2022/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count344
-\calc@Bcount=\count345
-\calc@Adimen=\dimen323
-\calc@Bdimen=\dimen324
-\calc@Askip=\skip69
-\calc@Bskip=\skip70
+\calc@Acount=\count358
+\calc@Bcount=\count359
+\calc@Adimen=\dimen312
+\calc@Bdimen=\dimen313
+\calc@Askip=\skip66
+\calc@Bskip=\skip67
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count346
-\calc@Cskip=\skip71
+\calc@Ccount=\count360
+\calc@Cskip=\skip68
 )
-(/usr/local/texlive/2022/texmf-dist/tex/latex/mathtools/mhsetup.sty
-Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/tools/shellesc.sty
+Package: shellesc 2019/11/08 v1.0c unified shell escape interface for LaTeX
+Package shellesc Info: Unrestricted shell escape enabled on input line 75.
 )
-\g_MT_multlinerow_int=\count347
-\l_MT_multwidth_dim=\dimen325
-\origjot=\skip72
-\l_MT_shortvdotswithinadjustabove_dim=\dimen326
-\l_MT_shortvdotswithinadjustbelow_dim=\dimen327
-\l_MT_above_intertext_sep=\dimen328
-\l_MT_below_intertext_sep=\dimen329
-\l_MT_above_shortintertext_sep=\dimen330
-\l_MT_below_shortintertext_sep=\dimen331
-\xmathstrut@box=\box79
-\xmathstrut@dim=\dimen332
+(/usr/local/texlive/2022/texmf-dist/tex/latex/ifplatform/ifplatform.sty
+Package: ifplatform 2017/10/13 v0.4a Testing for the operating system
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/catchfile/catchfile.sty
+Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
 )
-(/usr/local/texlive/2022/texmf-dist/tex/latex/natbib/natbib.sty
-Package: natbib 2010/09/13 8.31b (PWD, AO)
-\bibhang=\skip73
-\bibsep=\skip74
-LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count348
+(/usr/local/texlive/2022/texmf-dist/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
 )
-(./beamer_style/beamerthemeuniud.sty
-(/usr/local/texlive/2022/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+runsystem(uname -s > "main.w18")...executed.
+
+ (./main.w18)
+runsystem(rm -- "main.w18")...executed.
+
+) (/usr/local/texlive/2022/texmf-dist/tex/generic/xstring/xstring.sty
+(/usr/local/texlive/2022/texmf-dist/tex/generic/xstring/xstring.tex
+\integerpart=\count361
+\decimalpart=\count362
+)
+Package: xstring 2021/07/21 v1.84 String manipulations (CT)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/framed/framed.sty
+Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
+\OuterFrameSep=\skip69
+\fb@frw=\dimen314
+\fb@frh=\dimen315
+\FrameRule=\dimen316
+\FrameSep=\dimen317
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count363
+\float@exts=\toks51
+\float@box=\box82
+\@float@everytoks=\toks52
+\@floatcapt=\box83
+)
+\minted@appexistsfile=\read5
+\minted@bgbox=\box84
+\minted@code=\write6
+\c@minted@FancyVerbLineTemp=\count364
+\c@minted@pygmentizecounter=\count365
+\@float@every@listing=\toks53
+\c@listing=\count366
+)
+runsystem(mkdir -p _minted-main)...executed.
+
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/tcolorbox/tcolorbox.sty
+Package: tcolorbox 2022/01/07 version 5.0.2 text color boxes
+
 (/usr/local/texlive/2022/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
 Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
 
 (/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.cod
 e.tex
 File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfnodeparttextbox=\box80
+\pgfnodeparttextbox=\box85
 )
 (/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.
 tex
@@ -845,22 +879,123 @@ File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 (/usr/local/texlive/2022/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
 -0-65.sty
 Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@nodesepstart=\dimen333
-\pgf@nodesepend=\dimen334
+\pgf@nodesepstart=\dimen318
+\pgf@nodesepend=\dimen319
 )
 (/usr/local/texlive/2022/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
 -1-18.sty
 Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
+)) (/usr/local/texlive/2022/texmf-dist/tex/latex/environ/environ.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/trimspaces/trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 ))
+\tcb@titlebox=\box86
+\tcb@upperbox=\box87
+\tcb@lowerbox=\box88
+\tcb@phantombox=\box89
+\c@tcbbreakpart=\count367
+\c@tcblayer=\count368
+\c@tcolorbox@number=\count369
+\tcb@temp=\box90
+\tcb@temp=\box91
+\tcb@temp=\box92
+\tcb@temp=\box93
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip70
+\multirow@cntb=\count370
+\multirow@dima=\skip71
+\bigstrutjot=\dimen320
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/threeparttable/threeparttable.sty
+Package: threeparttable 2003/06/13  v 3.0
+\@tempboxb=\box94
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/tools/array.sty
+Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen321
+\ar@mcellbox=\box95
+\extrarowheight=\dimen322
+\NC@list=\toks54
+\extratabsurround=\skip72
+\backup@length=\skip73
+\ar@cellbox=\box96
+)
+\TX@col@width=\dimen323
+\TX@old@table=\dimen324
+\TX@old@col=\dimen325
+\TX@target=\dimen326
+\TX@delta=\dimen327
+\TX@cols=\count371
+\TX@ftn=\toks55
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/makecell/makecell.sty
+Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
+\rotheadsize=\dimen328
+\c@nlinenum=\count372
+\TeXr@lab=\toks56
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen329
+\lightrulewidth=\dimen330
+\cmidrulewidth=\dimen331
+\belowrulesep=\dimen332
+\belowbottomsep=\dimen333
+\aboverulesep=\dimen334
+\abovetopsep=\dimen335
+\cmidrulesep=\dimen336
+\cmidrulekern=\dimen337
+\defaultaddspace=\dimen338
+\@cmidla=\count373
+\@cmidlb=\count374
+\@aboverulesep=\dimen339
+\@belowrulesep=\dimen340
+\@thisruleclass=\count375
+\@lastruleclass=\count376
+\@thisrulewidth=\dimen341
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/mathtools/mathtools.sty
+Package: mathtools 2022/02/07 v1.28a mathematical typesetting tools
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/mathtools/mhsetup.sty
+Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
+)
+\g_MT_multlinerow_int=\count377
+\l_MT_multwidth_dim=\dimen342
+\origjot=\skip74
+\l_MT_shortvdotswithinadjustabove_dim=\dimen343
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen344
+\l_MT_above_intertext_sep=\dimen345
+\l_MT_below_intertext_sep=\dimen346
+\l_MT_above_shortintertext_sep=\dimen347
+\l_MT_below_shortintertext_sep=\dimen348
+\xmathstrut@box=\box97
+\xmathstrut@dim=\dimen349
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip75
+\bibsep=\skip76
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count378
+)
+(./beamer_style/beamerthemeuniud.sty
+(/usr/local/texlive/2022/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
 (/usr/local/texlive/2022/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
 (/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
 Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
 
 (/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
-\pgffor@iter=\dimen335
-\pgffor@skip=\dimen336
-\pgffor@stack=\toks53
-\pgffor@toks=\toks54
+\pgffor@iter=\dimen350
+\pgffor@skip=\dimen351
+\pgffor@stack=\toks57
+\pgffor@toks=\toks58
 ))
 (/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.cod
 e.tex
@@ -869,34 +1004,34 @@ Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
 (/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothan
 dlers.code.tex
 File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@plot@mark@count=\count349
-\pgfplotmarksize=\dimen337
+\pgf@plot@mark@count=\count379
+\pgfplotmarksize=\dimen352
 )
-\tikz@lastx=\dimen338
-\tikz@lasty=\dimen339
-\tikz@lastxsaved=\dimen340
-\tikz@lastysaved=\dimen341
-\tikz@lastmovetox=\dimen342
-\tikz@lastmovetoy=\dimen343
-\tikzleveldistance=\dimen344
-\tikzsiblingdistance=\dimen345
-\tikz@figbox=\box81
-\tikz@figbox@bg=\box82
-\tikz@tempbox=\box83
-\tikz@tempbox@bg=\box84
-\tikztreelevel=\count350
-\tikznumberofchildren=\count351
-\tikznumberofcurrentchild=\count352
-\tikz@fig@count=\count353
+\tikz@lastx=\dimen353
+\tikz@lasty=\dimen354
+\tikz@lastxsaved=\dimen355
+\tikz@lastysaved=\dimen356
+\tikz@lastmovetox=\dimen357
+\tikz@lastmovetoy=\dimen358
+\tikzleveldistance=\dimen359
+\tikzsiblingdistance=\dimen360
+\tikz@figbox=\box98
+\tikz@figbox@bg=\box99
+\tikz@tempbox=\box100
+\tikz@tempbox@bg=\box101
+\tikztreelevel=\count380
+\tikznumberofchildren=\count381
+\tikznumberofcurrentchild=\count382
+\tikz@fig@count=\count383
 
 (/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.cod
 e.tex
 File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfmatrixcurrentrow=\count354
-\pgfmatrixcurrentcolumn=\count355
-\pgf@matrix@numberofcolumns=\count356
+\pgfmatrixcurrentrow=\count384
+\pgfmatrixcurrentcolumn=\count385
+\pgf@matrix@numberofcolumns=\count386
 )
-\tikz@expandcount=\count357
+\tikz@expandcount=\count387
 
 (/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
 s/tikzlibrarytopaths.code.tex
@@ -904,32 +1039,32 @@ File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )))
 (/usr/local/texlive/2022/texmf-dist/tex/generic/soul/soul.sty
 Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
-\SOUL@word=\toks55
-\SOUL@lasttoken=\toks56
-\SOUL@cmds=\toks57
-\SOUL@buffer=\toks58
-\SOUL@token=\toks59
-\SOUL@spaceskip=\skip75
-\SOUL@ttwidth=\dimen346
-\SOUL@uldp=\dimen347
-\SOUL@ulht=\dimen348
+\SOUL@word=\toks59
+\SOUL@lasttoken=\toks60
+\SOUL@cmds=\toks61
+\SOUL@buffer=\toks62
+\SOUL@token=\toks63
+\SOUL@spaceskip=\skip77
+\SOUL@ttwidth=\dimen361
+\SOUL@uldp=\dimen362
+\SOUL@ulht=\dimen363
 )
 (/usr/local/texlive/2022/texmf-dist/tex/latex/textpos/textpos.sty
 Package: textpos 2020/09/26 v1.10
 
 Package: textpos 2020/09/26 1.10, absolute positioning of text on the page
 Package textpos Info: choosing support for LaTeX3 on input line 61.
-\TP@textbox=\box85
-\TP@holdbox=\box86
-\TPHorizModule=\dimen349
-\TPVertModule=\dimen350
-\TP@margin=\dimen351
-\TP@absmargin=\dimen352
+\TP@textbox=\box102
+\TP@holdbox=\box103
+\TPHorizModule=\dimen364
+\TPVertModule=\dimen365
+\TP@margin=\dimen366
+\TP@absmargin=\dimen367
 Grid set 16 x 16 = 22.7622pt x 17.07166pt
-\TPboxrulesize=\dimen353
-\TP@ox=\dimen354
-\TP@oy=\dimen355
-\TP@tbargs=\toks60
+\TPboxrulesize=\dimen368
+\TP@ox=\dimen369
+\TP@oy=\dimen370
+\TP@tbargs=\toks64
 TextBlockOrigin set to 0pt x 0pt
 ) (./beamer_style/beamerinnerthemeuniud.sty)
 (./beamer_style/beamerouterthemeuniud.sty)
@@ -944,96 +1079,148 @@ LaTeX Font Info:    Trying to load font information for T1+ppl on input line 11
 (/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/t1ppl.fd
 File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
 ))))
-(/usr/local/texlive/2022/texmf-dist/tex/latex/silence/silence.sty
+(/usr/local/texlive/2022/texmf-dist/tex/latex/tcolorbox/tcbminted.code.tex
+Library (tcolorbox): 'tcbminted.code.tex' version '5.0.2'
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/tcolorbox/tcblistingscore.code.te
+x
+Library (tcolorbox): 'tcblistingscore.code.tex' version '5.0.2'
+(/usr/local/texlive/2022/texmf-dist/tex/latex/tcolorbox/tcbprocessing.code.tex
+Library (tcolorbox): 'tcbprocessing.code.tex' version '5.0.2'
+)
+\c@tcblisting=\count388
+))
+(/usr/local/texlive/2022/texmf-dist/tex/latex/tcolorbox/tcblistings.code.tex
+Library (tcolorbox): 'tcblistings.code.tex' version '5.0.2'
+(/usr/local/texlive/2022/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count389
+\lst@gtempboxa=\box104
+\lst@token=\toks65
+\lst@length=\count390
+\lst@currlwidth=\dimen371
+\lst@column=\count391
+\lst@pos=\count392
+\lst@lostspace=\dimen372
+\lst@width=\dimen373
+\lst@newlines=\count393
+\lst@lineno=\count394
+\lst@maxwidth=\dimen374
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count395
+\lst@skipnumbers=\count396
+\lst@framebox=\box105
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/tcolorbox/tcbskins.code.tex
+Library (tcolorbox): 'tcbskins.code.tex' version '5.0.2'
+\tcb@waterbox=\box106
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/tcolorbox/tcbskinsjigsaw.code.tex
+Library (tcolorbox): 'tcbskinsjigsaw.code.tex' version '5.0.2'
+)) (/usr/local/texlive/2022/texmf-dist/tex/latex/silence/silence.sty
 Package: silence 2012/07/02 v1.5b Selective filtering of warnings and error mes
 sages
-\sl@Save=\count358
-\sl@StateNumber=\count359
-\sl@MessageCount=\count360
-\sl@Casualties=\count361
-\sl@Filter=\toks61
-\sl@Message=\toks62
-\sl@UnexpandedMessage=\toks63
-\sl@Mess@ge=\toks64
-\sl@WarningCount=\count362
-\sl@WarningNumber=\count363
-\sl@WarningCasualties=\count364
-\sl@TempBOW=\toks65
-\sl@BankOfWarnings=\toks66
+\sl@Save=\count397
+\sl@StateNumber=\count398
+\sl@MessageCount=\count399
+\sl@Casualties=\count400
+\sl@Filter=\toks66
+\sl@Message=\toks67
+\sl@UnexpandedMessage=\toks68
+\sl@Mess@ge=\toks69
+\sl@WarningCount=\count401
+\sl@WarningNumber=\count402
+\sl@WarningCasualties=\count403
+\sl@TempBOW=\toks70
+\sl@BankOfWarnings=\toks71
 LaTeX Info: Redefining \GenericWarning on input line 433.
-\sl@ErrorCount=\count365
-\sl@ErrorNumber=\count366
-\sl@ErrorCasualties=\count367
-\sl@TempBOE=\toks67
-\sl@BankOfErrors=\toks68
+\sl@ErrorCount=\count404
+\sl@ErrorNumber=\count405
+\sl@ErrorCasualties=\count406
+\sl@TempBOE=\toks72
+\sl@BankOfErrors=\toks73
 LaTeX Info: Redefining \GenericError on input line 601.
 )
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 102.
+(hyperref)                removing `\@ifnextchar' on input line 119.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\linewidth' on input line 102.
+(hyperref)                removing `\linewidth' on input line 119.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 102.
+(hyperref)                removing `\\' on input line 119.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 102.
+(hyperref)                removing `\\' on input line 119.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hfill' on input line 102.
+(hyperref)                removing `\hfill' on input line 119.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 102.
+(hyperref)                removing `\@ifnextchar' on input line 119.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\linewidth' on input line 102.
+(hyperref)                removing `\linewidth' on input line 119.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 102.
+(hyperref)                removing `\\' on input line 119.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 102.
+(hyperref)                removing `\\' on input line 119.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 102.
+(hyperref)                removing `\\' on input line 119.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+)
+runsystem(which pygmentize && touch main.aex)...executed.
+
+runsystem(rm main.aex)...executed.
+
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count368
-\l__pdf_internal_box=\box87
+\l__color_backend_stack_int=\count407
+\l__pdf_internal_box=\box107
 )
 (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 105.
-LaTeX Font Info:    ... okay on input line 105.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 105.
-LaTeX Font Info:    ... okay on input line 105.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 105.
-LaTeX Font Info:    ... okay on input line 105.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 105.
-LaTeX Font Info:    ... okay on input line 105.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 105.
-LaTeX Font Info:    ... okay on input line 105.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 105.
-LaTeX Font Info:    ... okay on input line 105.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 105.
-LaTeX Font Info:    ... okay on input line 105.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 105.
-LaTeX Font Info:    ... okay on input line 105.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 105.
-LaTeX Font Info:    ... okay on input line 105.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1071,17 +1258,17 @@ LaTeX Font Info:    ... okay on input line 105.
 
 (/usr/local/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count369
-\scratchdimen=\dimen356
-\scratchbox=\box88
-\nofMPsegments=\count370
-\nofMParguments=\count371
-\everyMPshowfont=\toks69
-\MPscratchCnt=\count372
-\MPscratchDim=\dimen357
-\MPnumerator=\count373
-\makeMPintoPDFobject=\count374
-\everyMPtoPDFconversion=\toks70
+\scratchcounter=\count408
+\scratchdimen=\dimen375
+\scratchbox=\box108
+\nofMPsegments=\count409
+\nofMParguments=\count410
+\everyMPshowfont=\toks74
+\MPscratchCnt=\count411
+\MPscratchDim=\dimen376
+\MPnumerator=\count412
+\makeMPintoPDFobject=\count413
+\everyMPtoPDFconversion=\toks75
 ) (/usr/local/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -1091,7 +1278,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring OFF on input line 105.
+Package hyperref Info: Link coloring OFF on input line 122.
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
@@ -1103,53 +1290,53 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count375
+\c@section@level=\count414
 )
-LaTeX Info: Redefining \ref on input line 105.
-LaTeX Info: Redefining \pageref on input line 105.
-LaTeX Info: Redefining \nameref on input line 105.
+LaTeX Info: Redefining \ref on input line 122.
+LaTeX Info: Redefining \pageref on input line 122.
+LaTeX Info: Redefining \nameref on input line 122.
  (./main.out) (./main.out)
-\@outlinefile=\write5
-\openout5 = `main.out'.
+\@outlinefile=\write7
+\openout7 = `main.out'.
 
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmr/m/n --> T1/ppl/m/n on input line 105.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 105.
+(Font)                  OT1/cmr/m/n --> T1/ppl/m/n on input line 122.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 122.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> T1/ppl/b/n on input line 105.
+(Font)                  OT1/cmr/bx/n --> T1/ppl/b/n on input line 122.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> T1/ppl/b/n on input line 105.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 105.
+(Font)                  OT1/cmr/bx/n --> T1/ppl/b/n on input line 122.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 122.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/cmss/m/n on input line 105.
+(Font)                  OT1/cmss/m/n --> T1/cmss/m/n on input line 122.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> T1/cmss/m/n on input line 105.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 105.
+(Font)                  OT1/cmss/bx/n --> T1/cmss/m/n on input line 122.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 122.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> T1/ppl/m/it on input line 105.
+(Font)                  OT1/cmr/m/it --> T1/ppl/m/it on input line 122.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> T1/ppl/m/it on input line 105.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 105.
+(Font)                  OT1/cmr/bx/it --> T1/ppl/m/it on input line 122.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 122.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> T1/lmvtt/m/n on input line 105.
+(Font)                  OT1/cmtt/m/n --> T1/lmvtt/m/n on input line 122.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> T1/lmvtt/m/n on input line 105.
+(Font)                  OT1/cmtt/m/n --> T1/lmvtt/m/n on input line 122.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  T1/ppl/m/n --> T1/ppl/b/n on input line 105.
+(Font)                  T1/ppl/m/n --> T1/ppl/b/n on input line 122.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  T1/ppl/m/it --> T1/ppl/b/it on input line 105.
+(Font)                  T1/ppl/m/it --> T1/ppl/b/it on input line 122.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmr/bx/n --> T1/ppl/b/n on input line 105.
+(Font)                  OT1/cmr/bx/n --> T1/ppl/b/n on input line 122.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  T1/ppl/b/n --> T1/ppl/b/n on input line 105.
+(Font)                  T1/ppl/b/n --> T1/ppl/b/n on input line 122.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  T1/cmss/m/n --> T1/cmss/b/n on input line 105.
+(Font)                  T1/cmss/m/n --> T1/cmss/b/n on input line 122.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  T1/ppl/m/it --> T1/ppl/b/it on input line 105.
+(Font)                  T1/ppl/m/it --> T1/ppl/b/it on input line 122.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  T1/lmvtt/m/n --> T1/lmvtt/b/n on input line 105.
+(Font)                  T1/lmvtt/m/n --> T1/lmvtt/b/n on input line 122.
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/translator/translator-basic-dicti
 onary-English.dict
@@ -1176,16 +1363,19 @@ tionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
 Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: listings package is loaded.
 Package caption Info: threeparttable package is loaded.
 Package caption Info: End \AtBeginDocument code.
+\c@lstlisting=\count415
  (./main.nav)
-LaTeX Font Info:    Trying to load font information for U+msa on input line 109
+LaTeX Font Info:    Trying to load font information for U+msa on input line 126
 .
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 109
+LaTeX Font Info:    Trying to load font information for U+msb on input line 126
 .
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
@@ -1194,12 +1384,12 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 <graphics/ud_halfLogo.pdf, id=13, 245.2885pt x 406.51875pt>
 File: graphics/ud_halfLogo.pdf Graphic file (type pdf)
 <use graphics/ud_halfLogo.pdf>
-Package pdftex.def Info: graphics/ud_halfLogo.pdf  used on input line 109.
+Package pdftex.def Info: graphics/ud_halfLogo.pdf  used on input line 126.
 (pdftex.def)             Requested size: 170.71652pt x 282.93599pt.
 <graphics/klg_halfLogo.pdf, id=14, 638.385pt x 1160.335pt>
 File: graphics/klg_halfLogo.pdf Graphic file (type pdf)
 <use graphics/klg_halfLogo.pdf>
-Package pdftex.def Info: graphics/klg_halfLogo.pdf  used on input line 109.
+Package pdftex.def Info: graphics/klg_halfLogo.pdf  used on input line 126.
 (pdftex.def)             Requested size: 156.49014pt x 284.43506pt.
  [1
 
@@ -1208,15 +1398,15 @@ ics/ud_halfLogo.pdf> <./graphics/klg_halfLogo.pdf>]
 <graphics/uniud.png, id=32, 513.92pt x 510.90875pt>
 File: graphics/uniud.png Graphic file (type png)
 <use graphics/uniud.png>
-Package pdftex.def Info: graphics/uniud.png  used on input line 124.
+Package pdftex.def Info: graphics/uniud.png  used on input line 141.
 (pdftex.def)             Requested size: 24.18501pt x 24.04233pt.
 <graphics/klag.png, id=34, 602.25pt x 600.2425pt>
 File: graphics/klag.png Graphic file (type png)
 <use graphics/klag.png>
-Package pdftex.def Info: graphics/klag.png  used on input line 124.
+Package pdftex.def Info: graphics/klag.png  used on input line 141.
 (pdftex.def)             Requested size: 24.18501pt x 24.0972pt.
 
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 124--124
+Overfull \hbox (56.90549pt too wide) in paragraph at lines 141--141
 [][]  
  []
 
@@ -1225,14 +1415,14 @@ Overfull \hbox (56.90549pt too wide) in paragraph at lines 124--124
  <./graphics/uniud.png> <./graphics/klag.png>]
 File: graphics/uniud.png Graphic file (type png)
 <use graphics/uniud.png>
-Package pdftex.def Info: graphics/uniud.png  used on input line 124.
+Package pdftex.def Info: graphics/uniud.png  used on input line 141.
 (pdftex.def)             Requested size: 24.18501pt x 24.04233pt.
 File: graphics/klag.png Graphic file (type png)
 <use graphics/klag.png>
-Package pdftex.def Info: graphics/klag.png  used on input line 124.
+Package pdftex.def Info: graphics/klag.png  used on input line 141.
 (pdftex.def)             Requested size: 24.18501pt x 24.0972pt.
 
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 124--124
+Overfull \hbox (56.90549pt too wide) in paragraph at lines 141--141
 [][]  
  []
 
@@ -1241,14 +1431,14 @@ Overfull \hbox (56.90549pt too wide) in paragraph at lines 124--124
 ]
 File: graphics/uniud.png Graphic file (type png)
 <use graphics/uniud.png>
-Package pdftex.def Info: graphics/uniud.png  used on input line 140.
+Package pdftex.def Info: graphics/uniud.png  used on input line 157.
 (pdftex.def)             Requested size: 24.18501pt x 24.04233pt.
 File: graphics/klag.png Graphic file (type png)
 <use graphics/klag.png>
-Package pdftex.def Info: graphics/klag.png  used on input line 140.
+Package pdftex.def Info: graphics/klag.png  used on input line 157.
 (pdftex.def)             Requested size: 24.18501pt x 24.0972pt.
 
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 140--140
+Overfull \hbox (56.90549pt too wide) in paragraph at lines 157--157
 [][]  
  []
 
@@ -1257,14 +1447,14 @@ Overfull \hbox (56.90549pt too wide) in paragraph at lines 140--140
 ]
 File: graphics/uniud.png Graphic file (type png)
 <use graphics/uniud.png>
-Package pdftex.def Info: graphics/uniud.png  used on input line 140.
+Package pdftex.def Info: graphics/uniud.png  used on input line 157.
 (pdftex.def)             Requested size: 24.18501pt x 24.04233pt.
 File: graphics/klag.png Graphic file (type png)
 <use graphics/klag.png>
-Package pdftex.def Info: graphics/klag.png  used on input line 140.
+Package pdftex.def Info: graphics/klag.png  used on input line 157.
 (pdftex.def)             Requested size: 24.18501pt x 24.0972pt.
 
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 140--140
+Overfull \hbox (56.90549pt too wide) in paragraph at lines 157--157
 [][]  
  []
 
@@ -1274,23 +1464,23 @@ Overfull \hbox (56.90549pt too wide) in paragraph at lines 140--140
 <images/TrustLayer1.jpg, id=63, 1591.9475pt x 533.995pt>
 File: images/TrustLayer1.jpg Graphic file (type jpg)
 <use images/TrustLayer1.jpg>
-Package pdftex.def Info: images/TrustLayer1.jpg  used on input line 166.
+Package pdftex.def Info: images/TrustLayer1.jpg  used on input line 190.
 (pdftex.def)             Requested size: 318.38387pt x 106.7971pt.
 
-Overfull \hbox (11.094pt too wide) in paragraph at lines 166--166
+Overfull \hbox (11.094pt too wide) in paragraph at lines 190--190
  [] 
  []
 
 File: graphics/uniud.png Graphic file (type png)
 <use graphics/uniud.png>
-Package pdftex.def Info: graphics/uniud.png  used on input line 166.
+Package pdftex.def Info: graphics/uniud.png  used on input line 190.
 (pdftex.def)             Requested size: 24.18501pt x 24.04233pt.
 File: graphics/klag.png Graphic file (type png)
 <use graphics/klag.png>
-Package pdftex.def Info: graphics/klag.png  used on input line 166.
+Package pdftex.def Info: graphics/klag.png  used on input line 190.
 (pdftex.def)             Requested size: 24.18501pt x 24.0972pt.
 
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 166--166
+Overfull \hbox (56.90549pt too wide) in paragraph at lines 190--190
 [][]  
  []
 
@@ -1300,23 +1490,23 @@ Overfull \hbox (56.90549pt too wide) in paragraph at lines 166--166
 <images/TrustLayer2.jpg, id=70, 1591.9475pt x 533.995pt>
 File: images/TrustLayer2.jpg Graphic file (type jpg)
 <use images/TrustLayer2.jpg>
-Package pdftex.def Info: images/TrustLayer2.jpg  used on input line 166.
+Package pdftex.def Info: images/TrustLayer2.jpg  used on input line 190.
 (pdftex.def)             Requested size: 318.38387pt x 106.7971pt.
 
-Overfull \hbox (11.094pt too wide) in paragraph at lines 166--166
+Overfull \hbox (11.094pt too wide) in paragraph at lines 190--190
  [] 
  []
 
 File: graphics/uniud.png Graphic file (type png)
 <use graphics/uniud.png>
-Package pdftex.def Info: graphics/uniud.png  used on input line 166.
+Package pdftex.def Info: graphics/uniud.png  used on input line 190.
 (pdftex.def)             Requested size: 24.18501pt x 24.04233pt.
 File: graphics/klag.png Graphic file (type png)
 <use graphics/klag.png>
-Package pdftex.def Info: graphics/klag.png  used on input line 166.
+Package pdftex.def Info: graphics/klag.png  used on input line 190.
 (pdftex.def)             Requested size: 24.18501pt x 24.0972pt.
 
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 166--166
+Overfull \hbox (56.90549pt too wide) in paragraph at lines 190--190
 [][]  
  []
 
@@ -1326,81 +1516,87 @@ Overfull \hbox (56.90549pt too wide) in paragraph at lines 166--166
 <images/TrustLayer3.jpg, id=78, 1591.9475pt x 533.995pt>
 File: images/TrustLayer3.jpg Graphic file (type jpg)
 <use images/TrustLayer3.jpg>
-Package pdftex.def Info: images/TrustLayer3.jpg  used on input line 166.
+Package pdftex.def Info: images/TrustLayer3.jpg  used on input line 190.
 (pdftex.def)             Requested size: 318.38387pt x 106.7971pt.
 
-Overfull \hbox (11.094pt too wide) in paragraph at lines 166--166
+Overfull \hbox (11.094pt too wide) in paragraph at lines 190--190
  [] 
  []
 
 File: graphics/uniud.png Graphic file (type png)
 <use graphics/uniud.png>
-Package pdftex.def Info: graphics/uniud.png  used on input line 166.
+Package pdftex.def Info: graphics/uniud.png  used on input line 190.
 (pdftex.def)             Requested size: 24.18501pt x 24.04233pt.
 File: graphics/klag.png Graphic file (type png)
 <use graphics/klag.png>
-Package pdftex.def Info: graphics/klag.png  used on input line 166.
+Package pdftex.def Info: graphics/klag.png  used on input line 190.
 (pdftex.def)             Requested size: 24.18501pt x 24.0972pt.
 
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 166--166
+Overfull \hbox (56.90549pt too wide) in paragraph at lines 190--190
 [][]  
  []
 
 [8
 
  <./images/TrustLayer3.jpg>]
-<images/TrustLayer5.jpg, id=85, 1591.9475pt x 533.995pt>
-File: images/TrustLayer5.jpg Graphic file (type jpg)
-<use images/TrustLayer5.jpg>
-Package pdftex.def Info: images/TrustLayer5.jpg  used on input line 166.
-(pdftex.def)             Requested size: 318.38387pt x 106.7971pt.
+LaTeX Font Info:    Trying to load font information for T1+lmvtt on input line 
+190.
 
-Overfull \hbox (11.094pt too wide) in paragraph at lines 166--166
- [] 
- []
-
+(/usr/local/texlive/2022/texmf-dist/tex/latex/lm/t1lmvtt.fd
+File: t1lmvtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
 File: graphics/uniud.png Graphic file (type png)
 <use graphics/uniud.png>
-Package pdftex.def Info: graphics/uniud.png  used on input line 166.
+Package pdftex.def Info: graphics/uniud.png  used on input line 190.
 (pdftex.def)             Requested size: 24.18501pt x 24.04233pt.
 File: graphics/klag.png Graphic file (type png)
 <use graphics/klag.png>
-Package pdftex.def Info: graphics/klag.png  used on input line 166.
+Package pdftex.def Info: graphics/klag.png  used on input line 190.
 (pdftex.def)             Requested size: 24.18501pt x 24.0972pt.
 
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 166--166
+Overfull \hbox (56.90549pt too wide) in paragraph at lines 190--190
 [][]  
  []
 
 [9
 
- <./images/TrustLayer5.jpg>]
-<images/TrustLayer4.jpg, id=92, 1591.9475pt x 533.995pt>
-File: images/TrustLayer4.jpg Graphic file (type jpg)
-<use images/TrustLayer4.jpg>
-Package pdftex.def Info: images/TrustLayer4.jpg  used on input line 166.
+]
+<images/TrustLayer5.jpg, id=93, 1591.9475pt x 533.995pt>
+File: images/TrustLayer5.jpg Graphic file (type jpg)
+<use images/TrustLayer5.jpg>
+Package pdftex.def Info: images/TrustLayer5.jpg  used on input line 190.
 (pdftex.def)             Requested size: 318.38387pt x 106.7971pt.
 
-Overfull \hbox (11.094pt too wide) in paragraph at lines 166--166
+Overfull \hbox (11.094pt too wide) in paragraph at lines 190--190
  [] 
  []
 
 File: graphics/uniud.png Graphic file (type png)
 <use graphics/uniud.png>
-Package pdftex.def Info: graphics/uniud.png  used on input line 166.
+Package pdftex.def Info: graphics/uniud.png  used on input line 190.
 (pdftex.def)             Requested size: 24.18501pt x 24.04233pt.
 File: graphics/klag.png Graphic file (type png)
 <use graphics/klag.png>
-Package pdftex.def Info: graphics/klag.png  used on input line 166.
+Package pdftex.def Info: graphics/klag.png  used on input line 190.
 (pdftex.def)             Requested size: 24.18501pt x 24.0972pt.
 
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 166--166
+Overfull \hbox (56.90549pt too wide) in paragraph at lines 190--190
 [][]  
  []
 
 [10
 
- <./images/TrustLayer4.jpg>]
+ <./images/TrustLayer5.jpg>]
+<images/TrustLayer4.jpg, id=100, 1591.9475pt x 533.995pt>
+File: images/TrustLayer4.jpg Graphic file (type jpg)
+<use images/TrustLayer4.jpg>
+Package pdftex.def Info: images/TrustLayer4.jpg  used on input line 190.
+(pdftex.def)             Requested size: 318.38387pt x 106.7971pt.
+
+Overfull \hbox (11.094pt too wide) in paragraph at lines 190--190
+ [] 
+ []
+
 File: graphics/uniud.png Graphic file (type png)
 <use graphics/uniud.png>
 Package pdftex.def Info: graphics/uniud.png  used on input line 190.
@@ -1416,17 +1612,17 @@ Overfull \hbox (56.90549pt too wide) in paragraph at lines 190--190
 
 [11
 
-]
+ <./images/TrustLayer4.jpg>]
 File: graphics/uniud.png Graphic file (type png)
 <use graphics/uniud.png>
-Package pdftex.def Info: graphics/uniud.png  used on input line 190.
+Package pdftex.def Info: graphics/uniud.png  used on input line 214.
 (pdftex.def)             Requested size: 24.18501pt x 24.04233pt.
 File: graphics/klag.png Graphic file (type png)
 <use graphics/klag.png>
-Package pdftex.def Info: graphics/klag.png  used on input line 190.
+Package pdftex.def Info: graphics/klag.png  used on input line 214.
 (pdftex.def)             Requested size: 24.18501pt x 24.0972pt.
 
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 190--190
+Overfull \hbox (56.90549pt too wide) in paragraph at lines 214--214
 [][]  
  []
 
@@ -1435,14 +1631,14 @@ Overfull \hbox (56.90549pt too wide) in paragraph at lines 190--190
 ]
 File: graphics/uniud.png Graphic file (type png)
 <use graphics/uniud.png>
-Package pdftex.def Info: graphics/uniud.png  used on input line 190.
+Package pdftex.def Info: graphics/uniud.png  used on input line 214.
 (pdftex.def)             Requested size: 24.18501pt x 24.04233pt.
 File: graphics/klag.png Graphic file (type png)
 <use graphics/klag.png>
-Package pdftex.def Info: graphics/klag.png  used on input line 190.
+Package pdftex.def Info: graphics/klag.png  used on input line 214.
 (pdftex.def)             Requested size: 24.18501pt x 24.0972pt.
 
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 190--190
+Overfull \hbox (56.90549pt too wide) in paragraph at lines 214--214
 [][]  
  []
 
@@ -1451,153 +1647,153 @@ Overfull \hbox (56.90549pt too wide) in paragraph at lines 190--190
 ]
 File: graphics/uniud.png Graphic file (type png)
 <use graphics/uniud.png>
-Package pdftex.def Info: graphics/uniud.png  used on input line 190.
+Package pdftex.def Info: graphics/uniud.png  used on input line 214.
 (pdftex.def)             Requested size: 24.18501pt x 24.04233pt.
 File: graphics/klag.png Graphic file (type png)
 <use graphics/klag.png>
-Package pdftex.def Info: graphics/klag.png  used on input line 190.
+Package pdftex.def Info: graphics/klag.png  used on input line 214.
 (pdftex.def)             Requested size: 24.18501pt x 24.0972pt.
 
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 190--190
+Overfull \hbox (56.90549pt too wide) in paragraph at lines 214--214
 [][]  
  []
 
 [14
 
 ]
-<images/SummarizePatient.jpg, id=124, 2924.9275pt x 1632.0975pt>
-File: images/SummarizePatient.jpg Graphic file (type jpg)
-<use images/SummarizePatient.jpg>
-Package pdftex.def Info: images/SummarizePatient.jpg  used on input line 211.
-(pdftex.def)             Requested size: 292.50989pt x 163.21931pt.
 File: graphics/uniud.png Graphic file (type png)
 <use graphics/uniud.png>
-Package pdftex.def Info: graphics/uniud.png  used on input line 211.
+Package pdftex.def Info: graphics/uniud.png  used on input line 214.
 (pdftex.def)             Requested size: 24.18501pt x 24.04233pt.
 File: graphics/klag.png Graphic file (type png)
 <use graphics/klag.png>
-Package pdftex.def Info: graphics/klag.png  used on input line 211.
+Package pdftex.def Info: graphics/klag.png  used on input line 214.
 (pdftex.def)             Requested size: 24.18501pt x 24.0972pt.
 
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 211--211
+Overfull \hbox (56.90549pt too wide) in paragraph at lines 214--214
 [][]  
  []
 
 [15
 
- <./images/SummarizePatient.jpg>]
-<images/SummaryDetail.png, id=131, 657.45625pt x 483.8075pt>
-File: images/SummaryDetail.png Graphic file (type png)
-<use images/SummaryDetail.png>
-Package pdftex.def Info: images/SummaryDetail.png  used on input line 211.
-(pdftex.def)             Requested size: 230.11313pt x 169.33516pt.
+]
+<images/SummarizePatient.jpg, id=132, 2924.9275pt x 1632.0975pt>
+File: images/SummarizePatient.jpg Graphic file (type jpg)
+<use images/SummarizePatient.jpg>
+Package pdftex.def Info: images/SummarizePatient.jpg  used on input line 235.
+(pdftex.def)             Requested size: 292.50989pt x 163.21931pt.
 File: graphics/uniud.png Graphic file (type png)
 <use graphics/uniud.png>
-Package pdftex.def Info: graphics/uniud.png  used on input line 211.
+Package pdftex.def Info: graphics/uniud.png  used on input line 235.
 (pdftex.def)             Requested size: 24.18501pt x 24.04233pt.
 File: graphics/klag.png Graphic file (type png)
 <use graphics/klag.png>
-Package pdftex.def Info: graphics/klag.png  used on input line 211.
+Package pdftex.def Info: graphics/klag.png  used on input line 235.
 (pdftex.def)             Requested size: 24.18501pt x 24.0972pt.
 
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 211--211
+Overfull \hbox (56.90549pt too wide) in paragraph at lines 235--235
 [][]  
  []
 
 [16
 
- <./images/SummaryDetail.png>]
-<images/ListPossibleProblems.png, id=139, 1660.2025pt x 737.75626pt>
-File: images/ListPossibleProblems.png Graphic file (type png)
-<use images/ListPossibleProblems.png>
-Package pdftex.def Info: images/ListPossibleProblems.png  used on input line 23
-6.
-(pdftex.def)             Requested size: 307.28987pt x 136.55031pt.
+ <./images/SummarizePatient.jpg>]
+<images/SummaryDetail.png, id=139, 657.45625pt x 483.8075pt>
+File: images/SummaryDetail.png Graphic file (type png)
+<use images/SummaryDetail.png>
+Package pdftex.def Info: images/SummaryDetail.png  used on input line 235.
+(pdftex.def)             Requested size: 230.11313pt x 169.33516pt.
 File: graphics/uniud.png Graphic file (type png)
 <use graphics/uniud.png>
-Package pdftex.def Info: graphics/uniud.png  used on input line 236.
+Package pdftex.def Info: graphics/uniud.png  used on input line 235.
 (pdftex.def)             Requested size: 24.18501pt x 24.04233pt.
 File: graphics/klag.png Graphic file (type png)
 <use graphics/klag.png>
-Package pdftex.def Info: graphics/klag.png  used on input line 236.
+Package pdftex.def Info: graphics/klag.png  used on input line 235.
 (pdftex.def)             Requested size: 24.18501pt x 24.0972pt.
 
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 236--236
+Overfull \hbox (56.90549pt too wide) in paragraph at lines 235--235
 [][]  
  []
 
 [17
 
- <./images/ListPossibleProblems.png>]
-<images/ProblemsDetail.png, id=147, 654.445pt x 266.9975pt>
-File: images/ProblemsDetail.png Graphic file (type png)
-<use images/ProblemsDetail.png>
-Package pdftex.def Info: images/ProblemsDetail.png  used on input line 236.
-(pdftex.def)             Requested size: 245.83282pt x 100.29083pt.
+ <./images/SummaryDetail.png>]
+<images/ListPossibleProblems.png, id=147, 1660.2025pt x 737.75626pt>
+File: images/ListPossibleProblems.png Graphic file (type png)
+<use images/ListPossibleProblems.png>
+Package pdftex.def Info: images/ListPossibleProblems.png  used on input line 26
+0.
+(pdftex.def)             Requested size: 307.28987pt x 136.55031pt.
 File: graphics/uniud.png Graphic file (type png)
 <use graphics/uniud.png>
-Package pdftex.def Info: graphics/uniud.png  used on input line 236.
+Package pdftex.def Info: graphics/uniud.png  used on input line 260.
 (pdftex.def)             Requested size: 24.18501pt x 24.04233pt.
 File: graphics/klag.png Graphic file (type png)
 <use graphics/klag.png>
-Package pdftex.def Info: graphics/klag.png  used on input line 236.
+Package pdftex.def Info: graphics/klag.png  used on input line 260.
 (pdftex.def)             Requested size: 24.18501pt x 24.0972pt.
 
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 236--236
+Overfull \hbox (56.90549pt too wide) in paragraph at lines 260--260
 [][]  
  []
 
 [18
 
- <./images/ProblemsDetail.png>]
-<images/SendPatientDetails.jpg, id=155, 1259.70625pt x 740.7675pt>
-File: images/SendPatientDetails.jpg Graphic file (type jpg)
-<use images/SendPatientDetails.jpg>
-Package pdftex.def Info: images/SendPatientDetails.jpg  used on input line 245.
-
-(pdftex.def)             Requested size: 277.13623pt x 162.96935pt.
+ <./images/ListPossibleProblems.png>]
+<images/ProblemsDetail.png, id=155, 654.445pt x 266.9975pt>
+File: images/ProblemsDetail.png Graphic file (type png)
+<use images/ProblemsDetail.png>
+Package pdftex.def Info: images/ProblemsDetail.png  used on input line 260.
+(pdftex.def)             Requested size: 245.83282pt x 100.29083pt.
 File: graphics/uniud.png Graphic file (type png)
 <use graphics/uniud.png>
-Package pdftex.def Info: graphics/uniud.png  used on input line 245.
+Package pdftex.def Info: graphics/uniud.png  used on input line 260.
 (pdftex.def)             Requested size: 24.18501pt x 24.04233pt.
 File: graphics/klag.png Graphic file (type png)
 <use graphics/klag.png>
-Package pdftex.def Info: graphics/klag.png  used on input line 245.
+Package pdftex.def Info: graphics/klag.png  used on input line 260.
 (pdftex.def)             Requested size: 24.18501pt x 24.0972pt.
 
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 245--245
+Overfull \hbox (56.90549pt too wide) in paragraph at lines 260--260
 [][]  
  []
 
 [19
 
- <./images/SendPatientDetails.jpg>]
+ <./images/ProblemsDetail.png>]
+<images/SendPatientDetails.jpg, id=165, 1259.70625pt x 740.7675pt>
+File: images/SendPatientDetails.jpg Graphic file (type jpg)
+<use images/SendPatientDetails.jpg>
+Package pdftex.def Info: images/SendPatientDetails.jpg  used on input line 269.
+
+(pdftex.def)             Requested size: 277.13623pt x 162.96935pt.
 File: graphics/uniud.png Graphic file (type png)
 <use graphics/uniud.png>
-Package pdftex.def Info: graphics/uniud.png  used on input line 270.
+Package pdftex.def Info: graphics/uniud.png  used on input line 269.
 (pdftex.def)             Requested size: 24.18501pt x 24.04233pt.
 File: graphics/klag.png Graphic file (type png)
 <use graphics/klag.png>
-Package pdftex.def Info: graphics/klag.png  used on input line 270.
+Package pdftex.def Info: graphics/klag.png  used on input line 269.
 (pdftex.def)             Requested size: 24.18501pt x 24.0972pt.
 
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 270--270
+Overfull \hbox (56.90549pt too wide) in paragraph at lines 269--269
 [][]  
  []
 
 [20
 
-]
+ <./images/SendPatientDetails.jpg>]
 File: graphics/uniud.png Graphic file (type png)
 <use graphics/uniud.png>
-Package pdftex.def Info: graphics/uniud.png  used on input line 270.
+Package pdftex.def Info: graphics/uniud.png  used on input line 294.
 (pdftex.def)             Requested size: 24.18501pt x 24.04233pt.
 File: graphics/klag.png Graphic file (type png)
 <use graphics/klag.png>
-Package pdftex.def Info: graphics/klag.png  used on input line 270.
+Package pdftex.def Info: graphics/klag.png  used on input line 294.
 (pdftex.def)             Requested size: 24.18501pt x 24.0972pt.
 
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 270--270
+Overfull \hbox (56.90549pt too wide) in paragraph at lines 294--294
 [][]  
  []
 
@@ -1606,188 +1802,206 @@ Overfull \hbox (56.90549pt too wide) in paragraph at lines 270--270
 ]
 File: graphics/uniud.png Graphic file (type png)
 <use graphics/uniud.png>
-Package pdftex.def Info: graphics/uniud.png  used on input line 270.
+Package pdftex.def Info: graphics/uniud.png  used on input line 294.
 (pdftex.def)             Requested size: 24.18501pt x 24.04233pt.
 File: graphics/klag.png Graphic file (type png)
 <use graphics/klag.png>
-Package pdftex.def Info: graphics/klag.png  used on input line 270.
+Package pdftex.def Info: graphics/klag.png  used on input line 294.
 (pdftex.def)             Requested size: 24.18501pt x 24.0972pt.
 
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 270--270
+Overfull \hbox (56.90549pt too wide) in paragraph at lines 294--294
 [][]  
  []
 
 [22
 
 ]
-<images/G-Eval.jpg, id=182, 1217.54875pt x 736.7525pt>
-File: images/G-Eval.jpg Graphic file (type jpg)
-<use images/G-Eval.jpg>
-Package pdftex.def Info: images/G-Eval.jpg  used on input line 283.
-(pdftex.def)             Requested size: 219.14932pt x 132.60973pt.
 File: graphics/uniud.png Graphic file (type png)
 <use graphics/uniud.png>
-Package pdftex.def Info: graphics/uniud.png  used on input line 283.
+Package pdftex.def Info: graphics/uniud.png  used on input line 294.
 (pdftex.def)             Requested size: 24.18501pt x 24.04233pt.
 File: graphics/klag.png Graphic file (type png)
 <use graphics/klag.png>
-Package pdftex.def Info: graphics/klag.png  used on input line 283.
+Package pdftex.def Info: graphics/klag.png  used on input line 294.
 (pdftex.def)             Requested size: 24.18501pt x 24.0972pt.
 
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 283--283
+Overfull \hbox (56.90549pt too wide) in paragraph at lines 294--294
 [][]  
  []
 
 [23
 
- <./images/G-Eval.jpg>]
-Overfull \hbox (2.40773pt too wide) in paragraph at lines 319--319
- $[]$ 
- []
-
+]
+<images/G-Eval.jpg, id=190, 1217.54875pt x 736.7525pt>
+File: images/G-Eval.jpg Graphic file (type jpg)
+<use images/G-Eval.jpg>
+Package pdftex.def Info: images/G-Eval.jpg  used on input line 307.
+(pdftex.def)             Requested size: 219.14932pt x 132.60973pt.
 File: graphics/uniud.png Graphic file (type png)
 <use graphics/uniud.png>
-Package pdftex.def Info: graphics/uniud.png  used on input line 319.
+Package pdftex.def Info: graphics/uniud.png  used on input line 307.
 (pdftex.def)             Requested size: 24.18501pt x 24.04233pt.
 File: graphics/klag.png Graphic file (type png)
 <use graphics/klag.png>
-Package pdftex.def Info: graphics/klag.png  used on input line 319.
+Package pdftex.def Info: graphics/klag.png  used on input line 307.
 (pdftex.def)             Requested size: 24.18501pt x 24.0972pt.
 
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 319--319
+Overfull \hbox (56.90549pt too wide) in paragraph at lines 307--307
 [][]  
  []
 
 [24
 
-]
-Overfull \hbox (5.51419pt too wide) in paragraph at lines 356--356
- [] 
+ <./images/G-Eval.jpg>]
+Overfull \hbox (2.40773pt too wide) in paragraph at lines 343--343
+ $[]$ 
  []
 
 File: graphics/uniud.png Graphic file (type png)
 <use graphics/uniud.png>
-Package pdftex.def Info: graphics/uniud.png  used on input line 356.
+Package pdftex.def Info: graphics/uniud.png  used on input line 343.
 (pdftex.def)             Requested size: 24.18501pt x 24.04233pt.
 File: graphics/klag.png Graphic file (type png)
 <use graphics/klag.png>
-Package pdftex.def Info: graphics/klag.png  used on input line 356.
+Package pdftex.def Info: graphics/klag.png  used on input line 343.
 (pdftex.def)             Requested size: 24.18501pt x 24.0972pt.
 
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 356--356
+Overfull \hbox (56.90549pt too wide) in paragraph at lines 343--343
 [][]  
  []
 
 [25
 
 ]
+Overfull \hbox (5.51419pt too wide) in paragraph at lines 380--380
+ [] 
+ []
+
 File: graphics/uniud.png Graphic file (type png)
 <use graphics/uniud.png>
-Package pdftex.def Info: graphics/uniud.png  used on input line 390.
+Package pdftex.def Info: graphics/uniud.png  used on input line 380.
 (pdftex.def)             Requested size: 24.18501pt x 24.04233pt.
 File: graphics/klag.png Graphic file (type png)
 <use graphics/klag.png>
-Package pdftex.def Info: graphics/klag.png  used on input line 390.
+Package pdftex.def Info: graphics/klag.png  used on input line 380.
 (pdftex.def)             Requested size: 24.18501pt x 24.0972pt.
 
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 390--390
+Overfull \hbox (56.90549pt too wide) in paragraph at lines 380--380
 [][]  
  []
 
 [26
 
 ]
-<images/comparison.png, id=216, 1435.2822pt x 498.663pt>
-File: images/comparison.png Graphic file (type png)
-<use images/comparison.png>
-Package pdftex.def Info: images/comparison.png  used on input line 399.
-(pdftex.def)             Requested size: 307.28987pt x 106.76152pt.
 File: graphics/uniud.png Graphic file (type png)
 <use graphics/uniud.png>
-Package pdftex.def Info: graphics/uniud.png  used on input line 399.
+Package pdftex.def Info: graphics/uniud.png  used on input line 414.
 (pdftex.def)             Requested size: 24.18501pt x 24.04233pt.
 File: graphics/klag.png Graphic file (type png)
 <use graphics/klag.png>
-Package pdftex.def Info: graphics/klag.png  used on input line 399.
+Package pdftex.def Info: graphics/klag.png  used on input line 414.
 (pdftex.def)             Requested size: 24.18501pt x 24.0972pt.
 
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 399--399
+Overfull \hbox (56.90549pt too wide) in paragraph at lines 414--414
 [][]  
  []
 
 [27
 
- <./images/comparison.png>]
+]
+<images/comparison.png, id=223, 1435.2822pt x 498.663pt>
+File: images/comparison.png Graphic file (type png)
+<use images/comparison.png>
+Package pdftex.def Info: images/comparison.png  used on input line 423.
+(pdftex.def)             Requested size: 307.28987pt x 106.76152pt.
 File: graphics/uniud.png Graphic file (type png)
 <use graphics/uniud.png>
-Package pdftex.def Info: graphics/uniud.png  used on input line 422.
+Package pdftex.def Info: graphics/uniud.png  used on input line 423.
 (pdftex.def)             Requested size: 24.18501pt x 24.04233pt.
 File: graphics/klag.png Graphic file (type png)
 <use graphics/klag.png>
-Package pdftex.def Info: graphics/klag.png  used on input line 422.
+Package pdftex.def Info: graphics/klag.png  used on input line 423.
 (pdftex.def)             Requested size: 24.18501pt x 24.0972pt.
 
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 422--422
+Overfull \hbox (56.90549pt too wide) in paragraph at lines 423--423
 [][]  
  []
 
 [28
 
-]
+ <./images/comparison.png>]
 File: graphics/uniud.png Graphic file (type png)
 <use graphics/uniud.png>
-Package pdftex.def Info: graphics/uniud.png  used on input line 422.
+Package pdftex.def Info: graphics/uniud.png  used on input line 446.
 (pdftex.def)             Requested size: 24.18501pt x 24.04233pt.
 File: graphics/klag.png Graphic file (type png)
 <use graphics/klag.png>
-Package pdftex.def Info: graphics/klag.png  used on input line 422.
+Package pdftex.def Info: graphics/klag.png  used on input line 446.
 (pdftex.def)             Requested size: 24.18501pt x 24.0972pt.
 
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 422--422
+Overfull \hbox (56.90549pt too wide) in paragraph at lines 446--446
 [][]  
  []
 
 [29
 
 ]
-\tf@nav=\write6
-\openout6 = `main.nav'.
+File: graphics/uniud.png Graphic file (type png)
+<use graphics/uniud.png>
+Package pdftex.def Info: graphics/uniud.png  used on input line 446.
+(pdftex.def)             Requested size: 24.18501pt x 24.04233pt.
+File: graphics/klag.png Graphic file (type png)
+<use graphics/klag.png>
+Package pdftex.def Info: graphics/klag.png  used on input line 446.
+(pdftex.def)             Requested size: 24.18501pt x 24.0972pt.
 
-\tf@toc=\write7
-\openout7 = `main.toc'.
+Overfull \hbox (56.90549pt too wide) in paragraph at lines 446--446
+[][]  
+ []
 
-\tf@snm=\write8
-\openout8 = `main.snm'.
+[30
+
+]
+\tf@nav=\write8
+\openout8 = `main.nav'.
+
+\tf@toc=\write9
+\openout9 = `main.toc'.
+
+\tf@snm=\write10
+\openout10 = `main.snm'.
 
  (./main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 28789 strings out of 478268
- 567126 string characters out of 5846347
- 835113 words of memory out of 5000000
- 46329 multiletter control sequences out of 15000+600000
- 497458 words of font info for 79 fonts, out of 8000000 for 9000
+ 36136 strings out of 478268
+ 738164 string characters out of 5846347
+ 1075204 words of memory out of 5000000
+ 53569 multiletter control sequences out of 15000+600000
+ 506404 words of font info for 82 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,13n,122p,435b,791s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
-exlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/te
-xlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/tex
-live/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texli
-ve/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive
-/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2
-022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2022
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2022/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2022/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2022/texmf
--dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2022/texmf-dist/f
-onts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/ty
-pe1/urw/palatino/uplri8a.pfb>
-Output written on main.pdf (29 pages, 2761786 bytes).
+ 128i,13n,122p,435b,981s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/
+texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2022/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2022/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2022/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2022/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2022/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2022/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2022/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2022/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2022/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2022/texmf-dist/fonts/ty
+pe1/public/lm/lmvtt10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/p
+alatino/uplb8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/palatino
+/uplr8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/palatino/uplri8
+a.pfb>
+Output written on main.pdf (30 pages, 2785790 bytes).
 PDF statistics:
- 303 PDF objects out of 1000 (max. 8388607)
- 214 compressed objects within 3 object streams
- 59 named destinations out of 1000 (max. 500000)
+ 316 PDF objects out of 1000 (max. 8388607)
+ 224 compressed objects within 3 object streams
+ 61 named destinations out of 1000 (max. 500000)
  123 words of extra memory for PDF output out of 10000 (max. 10000000)
 

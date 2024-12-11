@@ -26,6 +26,8 @@
 \usepackage{graphicx}
 \usepackage{caption}
 \usepackage{enumitem}
+\usepackage{minted} % Per evidenziare il codice
+\usepackage{tcolorbox} % Per caselle di testo personalizzate
 \usepackage{multirow}
 \usepackage[flushleft]{threeparttable}
 \usepackage{tabularx, makecell, booktabs}
@@ -33,6 +35,21 @@
 \usepackage{mathtools}
 \usepackage[numbers,sort]{natbib}
 \usepackage{./beamer_style/beamerthemeuniud}
+
+% Configurazione tcolorbox per centrare e stilizzare la casella
+\tcbuselibrary{minted, listings, skins}
+\tcbset{beamer, minted options={fontsize=\footnotesize, frame=none}}
+
+\newtcbox{\centeredminted}[2][]{%
+  enhanced,
+  colframe=blue!70!black, colback=blue!5, sharp corners,
+  fonttitle=\bfseries,
+  left=1mm, right=1mm, top=1mm, bottom=1mm, 
+  on line, center,
+  width=\textwidth, 
+  minted language=#2, #1
+}
+
 
 \setbeamertemplate{caption}[numbered]
 
@@ -154,12 +171,19 @@
         \begin{figure}[b]
             \includegraphics[scale=0.20]{images/TrustLayer3.jpg}
         \end{figure}}
+  \only<4>{
+    \begin{center}
+      \centeredminted[]{text}{
+       $\text{Patient }\texttt{Zanolin Lorenzo} \ldots \rightarrow \text{Patient }\texttt{PERSON\_0} \ldots$
+      }
+    \end{center}      
+  }
     
-    \only<4>{
+    \only<5>{
         \begin{figure}[b]
             \includegraphics[scale=0.20]{images/TrustLayer5.jpg}
         \end{figure}}
-  \only<5>{
+  \only<6>{
         \begin{figure}[b]
             \includegraphics[scale=0.20]{images/TrustLayer4.jpg}
         \end{figure}}
